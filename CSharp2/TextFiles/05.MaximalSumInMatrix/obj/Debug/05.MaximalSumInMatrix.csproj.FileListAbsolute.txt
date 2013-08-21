@@ -1,0 +1,12 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\05.MaximalSumInMatrix\obj\Debug\05.MaximalSumInMatrix.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\05.MaximalSumInMatrix\obj\Debug\05.MaximalSumInMatrix.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\obj\Debug\05.MaximalSumInMatrix.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\obj\Debug\05.MaximalSumInMatrix.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe.CodeAnalysisLog.xml
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\05.MaximalSumInMatrix\bin\Debug\05.MaximalSumInMatrix.exe.lastcodeanalysissucceeded

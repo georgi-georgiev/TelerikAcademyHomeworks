@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+    <button onclick="favoriteSiteBar.display()">Show Favorite Sites</button>
+    <script>
+	var Class = (function() {
+	  function createClass(properties) {
+    	  var f = function () {
+    		  //This is an addition to enable super (base) class with inheritance
+    		if(this._superConstructor){
+    			this._super = new this._superConstructor(arguments);
+    			}
+    	  this.init.apply(this, arguments);
+		}
+		for (var prop in properties) {
+		  f.prototype[prop] = properties[prop];
+		}
+		if (!f.prototype.init) {
+		  f.prototype.init = function() {}
+		}
+		return f;
+	  }
+
+	  Function.prototype.inherit = function(parent) {
+		var oldPrototype = this.prototype;
+		this.prototype = new parent();
+		this.prototype._superConstructor = parent;
+		for (var prop in oldPrototype) {
+		  this.prototype[prop] = oldPrototype[prop];
+		}
+	  }
+
+	  return {
+		create: createClass,
+	  };
+	}());
+
+    var URL = Class.create({
+        init: function (title, url) {
+            this.title = title;
+            this.url = url;
+        }
+    });
+    var Folder = Class.create({
+        init: function (title, urls) {
+            this.title = title;
+            this.urls = urls;
+        }
+    });
+
+    var FavoriteSiteBar = Class.create({
+        init: function (urls, folders) {
+            this.urls = urls;
+            this.folders = folders;
+            this.container = document.createElement("div");
+            this.count = 0;
+        },
+        display: function () {
+            this.container.id = "favouriteSitesBar";
+            document.body.appendChild(this.container);
+            if (this.count == 0) {
+                var urlsHeader = document.createElement("h3");
+                urlsHeader.innerHTML = "Favorite Sites:";
+                
+                this.container.appendChild(urlsHeader);
+                this._displayurls();
+
+                var foldersHeader = document.createElement("h3");
+                foldersHeader.innerHTML = "Favorite Groups Of Sites:";
+                this.container.appendChild(foldersHeader);
+                this._displayfolders();
+               
+                this.count += 1;
+            }
+        },
+        _displayurls: function () {
+            var urls = this.urls;
+            for (var i = 0; i < urls.length; i++) {
+                var url = document.createElement("a");
+                url.innerHTML = urls[i].title;
+                url.href = urls[i].url;
+                url.target = "_blank";
+
+                this.container.appendChild(url);
+            }
+        },
+        _displayfolders: function () {
+            var folders = this.folders;
+            for (var i = 0; i < folders.length; i++) {
+                var paragraph = document.createElement("p");
+                paragraph.id = folders[i].title;
+                paragraph.innerHTML = folders[i].title;
+                paragraph.className = "FavoriteSiteBarParagraph";
+                paragraph.onclick = function (ev) {
+                    if (ev.target.childElementCount == 0) {
+                        var index;
+                        for (var l = 0; l < folders.length; l++) {                               
+                            if (ev.target.id==folders[l].title) {
+                                index = l;
+                                break;
+                            }
+                        }
+                        for (var j = 0; j < folders[index].urls.length; j++) {
+                            var url = document.createElement("a");
+                            url.href = folders[index].urls[j].url;
+                            url.innerHTML = folders[index].urls[j].title;
+                            url.target = "_blank";
+
+                            ev.target.style.height = (100 + j * 30) + "px";
+                            ev.target.appendChild(document.createElement("br"));
+                            ev.target.appendChild(url);                               
+                        }
+                    }
+                    else {
+                        ev.target.innerHTML = ev.target.id;
+                        ev.target.style.height = "90px";
+                    }
+                }
+                this.container.appendChild(paragraph);
+            }
+        }
+    });
+
+    var telerikAcademy = new URL("TelerikAkademy", "http://telerikacademy.com/");
+    var telerik = new URL("Telerik", "http://www.telerik.com/");
+
+    var youtube = new URL("youtube", "http://www.youtube.com/");
+    var vbox = new URL("vbox", "http://vbox7.com/");
+    var videos = new Folder("Video", [youtube, vbox]);
+
+    var facebook = new URL("facebook", "http://www.facebook.com/");
+    var twitter = new URL("twitter", "http://www.twitter.com/");
+    var socials = [facebook, twitter];
+    var social = new Folder("Social", socials);
+
+    var favoriteSiteBar = new FavoriteSiteBar([telerik, telerikAcademy], [videos, social]);
+    </script>
+</body>
+</html>

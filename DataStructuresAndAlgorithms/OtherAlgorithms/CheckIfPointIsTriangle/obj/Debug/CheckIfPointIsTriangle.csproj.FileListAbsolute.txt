@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\CheckIfPointIsTriangle\bin\Debug\CheckIfPointIsTriangle.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\CheckIfPointIsTriangle\bin\Debug\CheckIfPointIsTriangle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\CheckIfPointIsTriangle\bin\Debug\CheckIfPointIsTriangle.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\CheckIfPointIsTriangle\obj\Debug\CheckIfPointIsTriangle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\CheckIfPointIsTriangle\obj\Debug\CheckIfPointIsTriangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\bin\Debug\03.RisksWinsRiskLose.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\obj\Debug\03.RisksWinsRiskLose.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\bin\Debug\03.RisksWinsRiskLose.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\bin\Debug\03.RisksWinsRiskLose.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\obj\Debug\03.RisksWinsRiskLose.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\03.RisksWinsRiskLose\obj\Debug\03.RisksWinsRiskLose.pdb

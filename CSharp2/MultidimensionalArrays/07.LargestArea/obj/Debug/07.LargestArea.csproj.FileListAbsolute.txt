@@ -1,0 +1,13 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\7_LargestArea\obj\Debug\7_LargestArea.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\7_LargestArea\obj\Debug\7_LargestArea.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\7_LargestArea\bin\Debug\7_LargestArea.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\7_LargestArea\obj\Debug\7_LargestArea.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\7_LargestArea\obj\Debug\7_LargestArea.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\07.LargestArea\bin\Debug\7_LargestArea.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\07.LargestArea\obj\Debug\7_LargestArea.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\MultidimensionalArrays\07.LargestArea\obj\Debug\7_LargestArea.pdb

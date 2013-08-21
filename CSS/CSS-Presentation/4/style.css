@@ -1,0 +1,135 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+div#container{
+	width: 400px;
+	height: 500px;
+	margin: 10px auto;
+	border: 1px solid #A5B3C3;
+	border-radius: 2px;
+	padding: 5px;
+	background: -webkit-linear-gradient(#BDDEFE,#D9fBFD 15% ,#BDDEFE 40%);
+}
+#min{
+	float: right;
+	background: #e2e2e2;
+	border: 1px solid #a5a5a5;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #636;
+}
+#close{
+	float: right;
+	background: #ff0000;
+	border: 1px solid #dedede;
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: 16px;
+	color: #fff;
+}
+div#container div#func {
+	clear: right;
+	border: 1px solid #A5B3C3;
+	border-radius: 2px;
+	padding: 5px;
+	background: -webkit-linear-gradient(#ECF3FC,#BDDEFE);
+}
+div#container div#func ul {
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+}
+div#container div#func ul li:first-child{
+	margin: 0;
+}
+div#container div#func ul li {
+	display: inline;
+	margin-left: 30px;
+}
+div#container div#func ul li a{
+	text-decoration: none;
+	color: black;
+}
+div#container div#func ul li a .shortcut{
+	text-decoration: underline;
+}
+div#container div#func input#boxNumbers {
+	text-align: right;
+	width: 366px;
+	height: 20px;
+	border: 1px solid #A5B3C3;
+	border-radius: 2px;
+	margin-top: 5px;
+	padding: 10px;
+	background: -webkit-linear-gradient(#E5EFFA,#fff);
+}
+div#container div#func div#binary{
+	margin-top: 5px;
+	border: 1px solid #A5B3C3;
+	border-radius: 2px;
+	padding: 5px;
+	text-align: center;
+}
+#binary table {
+	margin: 0 auto;
+}
+#binary table .info {
+	color: orange;
+}
+#num{
+	margin-top: 5px;
+	width: 80px;
+	float: left;
+}
+#notation{
+	width: 70px;
+	border: 1px solid #A5B3C3;
+	border-radius:2px;
+	padding: 5px;
+	margin-top: 5px;
+}
+#words{
+	width: 70px;
+	border: 1px solid #A5B3C3;
+	border-radius: 2px;
+	padding: 5px;
+	margin-top: 5px;
+}
+#commands {
+	margin-left: 5px;
+	margin-top: 5px;
+	float: left;
+	padding: 5px;
+}
+button {
+	height: 32px;
+	width: 32px;
+	padding: 2px;
+}
+button:disabled{
+	background: none;
+	border: 1px solid #999;
+	border-radius: 2px;
+}
+#equal{
+	height: 68px;
+}
+#zero{
+	width: 68px;
+}
+.number{
+	background: #EAF1F8;
+	border: 1px solid #666;
+}
+button:hover{
+	border:1px solid #A5B3C3;
+	background: -webkit-linear-gradient(#FDE8CF, #FBD77E, #FDE8CF);
+	border-radius: 2px;
+}
+button:disabled:hover{
+	background: none;
+	border: 1px solid #999;
+	border-radius: 2px;
+}

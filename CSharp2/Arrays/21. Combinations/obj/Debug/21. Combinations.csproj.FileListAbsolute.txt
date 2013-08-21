@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe.config
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\21. Combinations\bin\Debug\_21.Combinations.pdb
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\21. Combinations\obj\Debug\_21.Combinations.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\21. Combinations\obj\Debug\_21.Combinations.pdb

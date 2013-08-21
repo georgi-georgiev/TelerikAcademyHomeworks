@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\7.SumMoreNumbers\bin\Debug\7.SumMoreNumbers.exe.config

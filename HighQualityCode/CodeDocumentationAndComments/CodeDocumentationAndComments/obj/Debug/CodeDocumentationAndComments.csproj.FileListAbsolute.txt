@@ -1,0 +1,2 @@
+c:\users\georgi\documents\visual studio 2012\Projects\CodeDocumentationAndComments\CodeDocumentationAndComments\bin\Debug\CodeDocumentationAndComments.exe.config
+C:\Users\Georgi\Desktop\Telerik\HighQualityCode\CodeDocumentationAndComments\CodeDocumentationAndComments\bin\Debug\CodeDocumentationAndComments.exe.config

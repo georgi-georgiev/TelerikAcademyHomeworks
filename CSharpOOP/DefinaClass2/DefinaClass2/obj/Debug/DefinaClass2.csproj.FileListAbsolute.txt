@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\bin\Debug\DefinaClass2.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\obj\Debug\DefinaClass2.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\bin\Debug\DefinaClass2.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\bin\Debug\DefinaClass2.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\obj\Debug\DefinaClass2.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefinaClass2\obj\Debug\DefinaClass2.pdb

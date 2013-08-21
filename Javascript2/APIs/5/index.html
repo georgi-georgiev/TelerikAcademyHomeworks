@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#field{
+	width: 300px;
+	height: 300px;
+	background: #e2e2e2;
+}
+#ball{
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	background: red;
+	position: absolute;
+}
+</style>
+</head>
+<body>
+	<div id="field">
+		<div id="ball">
+		</div>
+	</div>
+	<script>
+        var ball = document.getElementById("ball");
+        var topSpeed = 1;
+        var leftSpeed = 1;
+        var fromLeft = 20;
+        var fromTop = 110;
+		var counter = 0;
+
+        setInterval(function () {
+            fromTop += topSpeed;
+            fromLeft += leftSpeed;
+            if (fromTop >= 290) {
+                topSpeed *= -1;
+				fromLeft -=5;
+            }
+            if (fromLeft >= 290) {
+                leftSpeed *= -1;
+				fromTop -= 5;
+            }
+            if (fromTop <= 10) {
+                topSpeed *= -1;
+				fromLeft +=5;
+            }
+            if (fromLeft <= 10) {
+                leftSpeed *= -1;
+				fromTop += 5;
+            }
+            ball.style.left = fromLeft + "px";
+            ball.style.top = fromTop + "px";
+        }, 5);
+    </script>
+</body>
+</html>

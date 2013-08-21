@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var firstObject = {
+	firstname: "Gesho",
+	lastname: "Geshev",
+	age: 19
+};
+printObj(firstObject);
+console.log("");
+
+var deepCopyFirstObj = deepCopy(firstObject);
+printObj(deepCopyFirstObj);
+
+console.log("");
+
+var secondObject = [2, "Stela", 5, "Pesho", firstObject];
+printObj(secondObject);
+
+console.log("");
+var deepCopySecondObj = deepCopy(secondObject);
+printObj(deepCopySecondObj);
+
+function deepCopy(oldObj)
+{
+	var newObj = oldObj;
+	for(var property in oldObj)
+	{
+		if(typeof(newObj[property]) == "object")
+		{
+			deepCopy(oldObj[property]);
+		}
+		else
+		{
+			newObj[property]=oldObj[property];
+		}
+	}
+	return newObj;
+}
+
+function printObj(obj)
+{
+
+        for(property in obj)
+        {
+				if(typeof(obj[property])=="object")
+                {
+                        printObj(obj[property]);
+                }
+				else
+				{
+					console.log("Property : "+property+" = "+obj[property]+" ["+typeof(obj[property])+"]");
+				}
+				
+        }
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

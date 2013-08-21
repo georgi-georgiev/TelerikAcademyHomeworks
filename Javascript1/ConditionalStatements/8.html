@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var number = 999;
+if(number>=100)
+{
+	switch(Math.floor(number/100))
+	{
+		case 1: console.log("One");
+		break;
+		case 2: console.log("Two");
+		break;
+		case 3: console.log("Three");
+		break;
+		case 4: console.log("Four");
+		break;
+		case 5: console.log("Five");
+		break;
+		case 6: console.log("Six");
+		break;
+		case 7: console.log("Seven");
+		break;
+		case 8: console.log("Eight");
+		break;
+		case 9: console.log("Nine");
+		break;
+	}
+	console.log("hundred");
+	if((Math.floor((number/10))%10)<=1 && (number%10)>0)
+	{
+		console.log("and");
+	}
+	if(((Math.floor(number/10))%10)==1)
+	{
+		switch(number%10)
+		{
+			case 0: console.log("Ten");
+			break;
+			case 1: console.log("Eleven");
+			break;
+			case 2: console.log("Twelve");
+			break;
+			case 3: console.log("Thriteen");
+			break;
+			case 4: console.log("Fourteen");
+			break;
+			case 5: console.log("Fifteen");
+			break;
+			case 6: console.log("Sixteen");
+			break;
+			case 7: console.log("Seventeen");
+			break;
+			case 8: console.log("Eighteen");
+			break;
+			case 9: console.log("Nineteen");
+			break;
+		}
+	}
+	else
+	{
+		switch((Math.floor(number/10))%10)
+		{
+			case 2: console.log("Twenty");
+			break;
+			case 3: console.log("Thrity");
+			break;
+			case 4: console.log("Fourty");
+			break;
+			case 5: console.log("Fifty");
+			break;
+			case 6: console.log("Sixty");
+			break;
+			case 7: console.log("Seventy");
+			break;
+			case 8: console.log("Eighty");
+			break;
+			case 9: console.log("Ninety");
+			break;
+		}
+		switch(number%10)
+		{
+			case 1: console.log("One");
+			break;
+			case 2: console.log("Two");
+			break;
+			case 3: console.log("Three");
+			break;
+			case 4: console.log("Four");
+			break;
+			case 5: console.log("Five");
+			break;
+			case 6: console.log("Six");
+			break;
+			case 7: console.log("Seven");
+			break;
+			case 8: console.log("Eight");
+			break;
+			case 9: console.log("Nine");
+			break;
+		}
+	}
+}
+else if(number>=10)
+{
+	if(number<20)
+	{
+		switch(number%10)
+		{
+			case 0: console.log("Ten");
+			break;
+			case 1: console.log("Eleven");
+			break;
+			case 2: console.log("Twelve");
+			break;
+			case 3: console.log("Thriteen");
+			break;
+			case 4: console.log("Fourteen");
+			break;
+			case 5: console.log("Fifteen");
+			break;
+			case 6: console.log("Sixteen");
+			break;
+			case 7: console.log("Seventeen");
+			break;
+			case 8: console.log("Eighteen");
+			break;
+			case 9: console.log("Nineteen");
+			break;
+		}
+	}
+	else
+	{
+		switch(Math.floor(number/10))
+		{
+			case 2: console.log("Twenty");
+			break;
+			case 3: console.log("Thrity");
+			break;
+			case 4: console.log("Fourty");
+			break;
+			case 5: console.log("Fifty");
+			break;
+			case 6: console.log("Sixty");
+			break;
+			case 7: console.log("Seventy");
+			break;
+			case 8: console.log("Eighty");
+			break;
+			case 9: console.log("Ninety");
+			break;
+		}
+		switch(number%10)
+		{
+			case 1: console.log("One");
+			break;
+			case 2: console.log("Two");
+			break;
+			case 3: console.log("Three");
+			break;
+			case 4: console.log("Four");
+			break;
+			case 5: console.log("Five");
+			break;
+			case 6: console.log("Six");
+			break;
+			case 7: console.log("Seven");
+			break;
+			case 8: console.log("Eight");
+			break;
+			case 9: console.log("Nine");
+			break;
+		}
+	}
+}
+else if(number>=0)
+{
+	switch(number)
+	{
+		case 0: console.log("Zero");
+		break;
+		case 1: console.log("One");
+		break;
+		case 2: console.log("Two");
+		break;
+		case 3: console.log("Three");
+		break;
+		case 4: console.log("Four");
+		break;
+		case 5: console.log("Five");
+		break;
+		case 6: console.log("Six");
+		break;
+		case 7: console.log("Seven");
+		break;
+		case 8: console.log("Eight");
+		break;
+		case 9: console.log("Nine");
+		break;
+	}
+}
+else
+{
+	console.log("Error");
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

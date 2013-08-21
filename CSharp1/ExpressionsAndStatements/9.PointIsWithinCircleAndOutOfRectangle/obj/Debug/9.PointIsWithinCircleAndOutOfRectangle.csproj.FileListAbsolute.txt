@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\9.PointIsWithinCircleAndOutOfRectangle\bin\Debug\9.PointIsWithinCircleAndOutOfRectangle.exe.config

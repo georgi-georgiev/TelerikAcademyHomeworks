@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+if (!Object.prototype.extend) {
+  Object.prototype.extend = function(properties) {
+    function f() {};
+    f.prototype = Object.create(this);
+    for (var prop in properties) {
+      f.prototype[prop] = properties[prop];
+    }
+    f.prototype._super = this;
+    return new f();
+  }
+}
+
+var Image = {
+	init: function(title, thumbURL, largeURL){
+		this.title = title;
+		this.thumbURL = thumbURL;
+		this.largeURL = largeURL;
+	}
+};
+
+var Button = {
+  init: function(id, text){
+    this.id = id;
+    this.text = text;
+  }
+};
+
+var Slider = {
+  init: function(images, previousButton, nextButton){
+    this.images = images;
+    this.previousButton = previousButton;
+    this.nextButton = nextButton;
+  },
+  createImages: function(){
+    sliderHolder = document.getElementById("slider-holder");
+
+    var imagePreview = document.createElement("div");
+    imagePreview.id = 'img-preview';
+
+    var imageLarge = document.createElement("img");
+    imageLarge.src = this.images[0].largeURL;
+    imagePreview.appendChild(imageLarge);
+
+    
+    
+
+    sliderHolder.appendChild(imagePreview);
+
+    var sliderImages = [];
+    for (var i = 0; i < this.images.length; i++) {
+      var image = document.createElement("img");
+      image.className = "sliderImg";
+      image.src = this.images[i].thumbURL;
+      image.alt = this.images[i].title;
+      image.data = this.images[i].largeURL;
+      image.onclick = function () {
+          imageLarge.src = this.data;
+          imagePreview.appendChild(imageLarge);
+      };
+      sliderImages[i] = image;
+    }
+
+
+
+    return sliderImages;
+  },
+  next: function(){
+    var next = document.createElement("button");
+    next.innerHTML = this.nextButton.text;
+    next.id = this.nextButton.id;
+    next.onclick = function(){
+      if(position < sliderImgs.length-1){
+        sliderImgs[position+1].style.display = "inline-block";
+        sliderImgs[position-2].style.display = "none";
+        position++;
+      }
+    };
+    return next;
+  },
+  previous: function(){
+
+    var previous = document.createElement("button");
+    previous.innerHTML = this.previousButton.text;
+    previous.id = this.previousButton.id;
+    previous.onclick = function(){
+      if(position > 2){
+        sliderImgs[position].style.display = "none";
+        sliderImgs[position-3].style.display = "inline-block";
+        position--;
+      }
+    };
+    return previous;
+  },
+  introduce: function () {
+    
+    var imgs = this.createImages();
+    for (var i = 0; i < imgs.length; i++) {
+      sliderHolder.appendChild(imgs[i]);
+      if(i>2){
+        imgs[i].style.display = "none";
+      }
+    }
+    sliderHolder.appendChild(this.previous());
+    sliderHolder.appendChild(this.next());
+
+    sliderImgs = document.getElementsByClassName("sliderImg");
+    position = sliderImgs.length-1;
+    
+  }
+};
+
+var SliderController = {
+  init: function(slider){
+    this.slider = slider;
+  },
+  getSlider: function(){
+    this.slider.introduce();
+  }
+};
+
+
+</script>
+</head>
+<body>
+  <div id="slider-holder">
+  </div>
+  <script type="text/javascript">
+var image1 = Object.create(Image);
+image1.init("Image 1", "image1-thumb.jpg", "image1.jpg");
+var image2 = Object.create(Image);
+image2.init("Image 2", "image2-thumb.jpg", "image2.jpg");
+var image3 = Object.create(Image);
+image3.init("Image 3", "image3-thumb.jpg", "image3.jpg");
+var image4 = Object.create(Image);
+image4.init("Image 4", "image4-thumb.jpg", "image4.jpg");
+
+var images = [image1, image2, image3, image4];
+
+var prevButton = Object.create(Button);
+prevButton.init("prevButton", "previous image");
+
+var nextButton = Object.create(Button);
+nextButton.init("nextButton", "next image");
+
+var slider = Object.create(Slider);
+slider.init(images, prevButton, nextButton);
+var sliderController = Object.create(SliderController);
+sliderController.init(slider);
+sliderController.getSlider();
+  </script>
+</body>
+</html>

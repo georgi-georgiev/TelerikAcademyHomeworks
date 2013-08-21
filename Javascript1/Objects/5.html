@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var persons = [
+  {firstname : "Georgi", lastname: "Petrov", age: 32}, 
+  {firstname : "Petar", lastname: "Ivanov", age: 81},
+  {firstname : "Saimon", lastname : "Goshev", age: 35},
+  {firstname : "Todor", lastname : "Cecov", age: 21}
+];
+function findYoungest(obj){
+	var min = obj[0].age;
+	var name = obj[0].name + obj[0].lastname;
+	for(var i=1; i<obj.length; i++)
+	{
+		if(obj[i].age < min)
+		{
+			min = obj[i].age;
+			name = obj[i].firstname+' '+obj[i].lastname;
+		}		
+	}
+	return name;
+}
+var name = findYoungest(persons);
+console.log(name);
+</script>
+</head>
+<body>
+  
+</body>
+</html>

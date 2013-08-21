@@ -1,0 +1,1 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\10.CallStoredProcedure\bin\Debug\10.CallStoredProcedure.exe.config

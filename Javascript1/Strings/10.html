@@ -1,0 +1,51 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+        function palindroms(string) {
+            var word="";
+            for(var i=0; i<string.length-1; i++)
+            {
+                if((string[i] !== " ") )
+                {
+                    word+=string[i];
+                }
+                else
+                {
+                    if(word.length > 2)
+                    {
+                        flag=true;
+                        var k=0;
+                        for(var j=word.length-1;j>=0; j--)
+                        {
+                            if(word[k] === word[j])
+                            {
+                                k++;
+                            }
+                            else
+                            {
+                                flag=false;
+                                break;
+                            }
+                        }
+                        if(flag===true)
+                        {
+                            console.log(word);
+                        }
+                    }
+                    
+                       
+                    word="";
+                    
+                }
+            }
+        }
+
+        var string = "ana : toz koito padne v boi za svoboda toi ne umira";
+        palindroms(string);
+	</script>
+</head>
+<body>
+
+</body>
+</html>

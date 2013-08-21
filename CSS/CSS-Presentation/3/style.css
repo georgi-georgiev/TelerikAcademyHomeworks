@@ -1,0 +1,22 @@
+div{
+	background: #000;
+	border: 1px solid #ff0000;
+	border-radius: 60px;
+}
+div>div {
+	margin-right: 60px;
+}
+div>div>div>div>{
+	margin-right: 40px;
+}
+div>div>div>div>div>div{
+	margin-right: 30px;
+}
+div>div>div>div>div>div>div>div{
+	margin-right: 20px;
+}
+div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div>div {
+	margin-right: 15px;
+}
+
+

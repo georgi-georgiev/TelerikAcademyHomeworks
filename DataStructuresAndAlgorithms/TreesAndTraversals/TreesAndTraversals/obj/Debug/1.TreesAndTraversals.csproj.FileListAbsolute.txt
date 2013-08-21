@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\bin\Debug\TreesAndTraversals.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\bin\Debug\TreesAndTraversals.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\bin\Debug\TreesAndTraversals.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\obj\Debug\TreesAndTraversals.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\obj\Debug\TreesAndTraversals.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\TreesAndTraversals\TreesAndTraversals\bin\Debug\1.TreesAndTraversals.exe.config

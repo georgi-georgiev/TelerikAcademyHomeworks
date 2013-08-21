@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\bin\Debug\03.WordsOccurancesInFileWithTrie.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\bin\Debug\03.WordsOccurancesInFileWithTrie.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\bin\Debug\03.WordsOccurancesInFileWithTrie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\obj\Debug\03.WordsOccurancesInFileWithTrie.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\obj\Debug\03.WordsOccurancesInFileWithTrie.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\OthersStructuresOfData\03.WordsOccurancesInFileWithTrie\obj\Debug\03.WordsOccurancesInFileWithTrie.pdb

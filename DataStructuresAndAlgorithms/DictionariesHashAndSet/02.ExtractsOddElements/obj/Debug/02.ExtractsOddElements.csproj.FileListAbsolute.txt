@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\bin\Debug\02.ExtractsOddElements.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\bin\Debug\02.ExtractsOddElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\bin\Debug\02.ExtractsOddElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\obj\Debug\02.ExtractsOddElements.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\obj\Debug\02.ExtractsOddElements.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\02.ExtractsOddElements\obj\Debug\02.ExtractsOddElements.csprojResolveAssemblyReference.cache

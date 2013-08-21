@@ -1,0 +1,21 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+	var url = "http://www.devbg.org/forum/index.php";
+	var protocolEnd = url.search("w");
+	var protocol = url.substr(0, protocolEnd);
+	var server = url.substring(protocolEnd, url.indexOf("/", url.indexOf("/")+2));
+	var resource = url.substr(protocol.length + server.length, url.length);
+	var json = {
+		protocol : protocol,
+		server : server,
+		resource : resource
+	};
+	console.log(json);
+	</script>
+</head>
+<body>
+
+</body>
+</html>

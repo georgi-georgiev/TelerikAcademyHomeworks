@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\bin\Debug\07.HowMuchTimesEachOccur.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\bin\Debug\07.HowMuchTimesEachOccur.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\bin\Debug\07.HowMuchTimesEachOccur.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\obj\Debug\07.HowMuchTimesEachOccur.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\obj\Debug\07.HowMuchTimesEachOccur.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\07.HowMuchTimesEachOccur\obj\Debug\07.HowMuchTimesEachOccur.csprojResolveAssemblyReference.cache

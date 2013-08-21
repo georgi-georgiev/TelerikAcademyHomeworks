@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\bin\Debug\05.RemoveNegativeNumbersFromSequance.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\bin\Debug\05.RemoveNegativeNumbersFromSequance.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\bin\Debug\05.RemoveNegativeNumbersFromSequance.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\obj\Debug\05.RemoveNegativeNumbersFromSequance.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\obj\Debug\05.RemoveNegativeNumbersFromSequance.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\05.RemoveNegativeNumbersFromSequance\obj\Debug\05.RemoveNegativeNumbersFromSequance.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\02.ToList.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\obj\Debug\02.ToList.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\02.ToList.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\02.ToList.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\01.Include.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\01.Include.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\obj\Debug\02.ToList.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkPerformance\02.ToList\obj\Debug\02.ToList.pdb

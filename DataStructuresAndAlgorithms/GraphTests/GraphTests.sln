@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "GraphTests\Salaries.csproj", "{FA61E2C6-F30C-4072-A6DE-CC4D40555543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsOfPesho", "FriendsOfPesho\FriendsOfPesho.csproj", "{65739297-B18F-496A-BD51-B785A75228C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVCompany", "TVCompany\TVCompany.csproj", "{92A3CA3C-FB73-4C68-81F2-DB3766E432B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA61E2C6-F30C-4072-A6DE-CC4D40555543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA61E2C6-F30C-4072-A6DE-CC4D40555543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA61E2C6-F30C-4072-A6DE-CC4D40555543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA61E2C6-F30C-4072-A6DE-CC4D40555543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65739297-B18F-496A-BD51-B785A75228C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65739297-B18F-496A-BD51-B785A75228C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65739297-B18F-496A-BD51-B785A75228C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65739297-B18F-496A-BD51-B785A75228C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A3CA3C-FB73-4C68-81F2-DB3766E432B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A3CA3C-FB73-4C68-81F2-DB3766E432B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A3CA3C-FB73-4C68-81F2-DB3766E432B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A3CA3C-FB73-4C68-81F2-DB3766E432B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

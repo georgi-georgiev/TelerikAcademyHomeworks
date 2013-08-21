@@ -1,0 +1,18 @@
+.box img {
+	background: url('shadow-horizontal-mid.png') repeat-x bottom;
+	padding-bottom: 8px;
+}
+.box, img {
+	display: inline-block;
+	margin-bottom: -13px;
+	background: url('shadow-vertical-mid.png') repeat-y right;
+}
+.box{
+	padding-right: 7px;
+}
+.box1{
+	display: inline-block;
+	background: url('shadow-horizontal-right.png') no-repeat bottom right;
+	padding-bottom: 8px;
+	padding-right: 1px;
+}

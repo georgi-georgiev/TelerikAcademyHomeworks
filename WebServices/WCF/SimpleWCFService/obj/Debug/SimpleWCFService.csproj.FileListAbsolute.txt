@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\SimpleWCFService\bin\SimpleWCFService.dll
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\SimpleWCFService\bin\SimpleWCFService.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\SimpleWCFService\obj\Debug\SimpleWCFService.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\SimpleWCFService\obj\Debug\SimpleWCFService.dll
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\SimpleWCFService\obj\Debug\SimpleWCFService.pdb

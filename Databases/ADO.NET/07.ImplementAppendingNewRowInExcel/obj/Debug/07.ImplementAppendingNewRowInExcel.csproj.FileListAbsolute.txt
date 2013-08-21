@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\07.ImplementAppendingNewRowInExcel\bin\Debug\07.ImplementAppendingNewRowInExcel.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\07.ImplementAppendingNewRowInExcel\bin\Debug\07.ImplementAppendingNewRowInExcel.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\07.ImplementAppendingNewRowInExcel\bin\Debug\07.ImplementAppendingNewRowInExcel.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\07.ImplementAppendingNewRowInExcel\obj\Debug\07.ImplementAppendingNewRowInExcel.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\07.ImplementAppendingNewRowInExcel\obj\Debug\07.ImplementAppendingNewRowInExcel.pdb

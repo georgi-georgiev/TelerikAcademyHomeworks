@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\6.QuadraticEquation\bin\Debug\6.QuadraticEquation.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\6.QuadraticEquation\obj\Debug\6.QuadraticEquation.pdb

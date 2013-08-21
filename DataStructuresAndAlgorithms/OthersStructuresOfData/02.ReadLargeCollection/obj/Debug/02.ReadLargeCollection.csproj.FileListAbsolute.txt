@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\bin\Debug\02.ReadLargeCollection.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\obj\Debug\02.ReadLargeCollection.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\bin\Debug\02.ReadLargeCollection.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\bin\Debug\02.ReadLargeCollection.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\bin\Debug\PowerCollections.dll
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\bin\Debug\PowerCollections.xml
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\obj\Debug\02.ReadLargeCollection.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OthersStructuresOfData\02.ReadLargeCollection\obj\Debug\02.ReadLargeCollection.pdb

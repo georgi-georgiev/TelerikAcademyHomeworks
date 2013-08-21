@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="../jquery.js"></script>
+		<script>
+		$(document).ready(function(){
+			
+			var arr = {"students": [
+				{ "fname":"John" , "lname":"Doe", "grade" : "3" }, 
+				{ "fname":"Anna" , "lname":"Smith", "grade" : "4" }, 
+				{ "fname":"Peter" , "lname":"Jones", "grade" : "5" }
+			]
+			};
+			var table = "<table></table>";
+			$("body").append(table);
+			$("table").append("<th>First name</th><th>Last name</th><th>Grade</th>");
+			for(var i=0; i<arr.students.length; i++){
+				var fname = arr.students[i].fname;
+				var lname = arr.students[i].lname;
+				var grade = arr.students[i].grade;
+				$("table").append("<tr id='"+i+"'></tr>");
+				$("table tr#"+i).append("<td>"+fname+"</td>");
+				$("table tr#"+i).append("<td>"+lname+"</td>");
+				$("table tr#"+i).append("<td>"+grade+"</td>");
+			}
+		});
+		</script>
+	</head>
+	<body>
+		
+	</body>
+</html>

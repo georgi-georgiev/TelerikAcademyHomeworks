@@ -1,0 +1,40 @@
+html, body{
+	margin:0;
+	padding:0;
+	background-color: #A9A9A9;
+}
+header h1{
+	text-align: center;
+	color: #F6EBDC;
+}
+section article header h1 {
+	text-align: left;
+}
+header nav ul {
+	list-style-type: none;
+	width: 67px;
+	margin: 0 auto;
+}
+header nav ul li a:link{
+	color:#F6EBDC;
+	font-size: 18px;
+	text-decoration: none;
+	width: 50px;
+}
+header nav ul li:nth-child(2){
+	background: #D3D3D3;
+}
+header nav ul li:last-child{
+	text-decoration: underline;
+}
+
+section article footer p a:link {
+	text-decoration: none;
+	color: black;
+}
+footer {
+	text-align: center;
+}
+section article footer {
+	text-align: left;
+}

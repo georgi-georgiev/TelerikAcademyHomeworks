@@ -1,0 +1,47 @@
+#container{
+	width: 400px;
+	margin: 0 auto;
+}
+.sprite-image{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin: 30px;
+	font-size: 12px;
+	padding-top: 16px;
+	font-weight: bold;
+}
+.sprite-comment{ background: url('sprite.png') 0 0; width: 16px; height: 16px; } 
+.sprite-comment_add{ background: url('sprite.png') 0 -66px; width: 16px; height: 16px; } 
+.sprite-comment_delete{ background: url('sprite.png') 0 -132px; width: 16px; height: 16px; } 
+.sprite-comment_edit{ background: url('sprite.png') 0 -198px; width: 16px; height: 16px; } 
+.sprite-comments{ background: url('sprite.png') 0 -264px; width: 16px; height: 16px; } 
+.sprite-comments_add{ background: url('sprite.png') 0 -330px; width: 16px; height: 16px; } 
+.sprite-comments_delete{ background: url('sprite.png') 0 -396px; width: 16px; height: 16px; } 
+.sprite-folder{ background: url('sprite.png') 0 -462px; width: 16px; height: 16px; } 
+.sprite-folder_add{ background: url('sprite.png') 0 -528px; width: 16px; height: 16px; } 
+.sprite-folder_delete{ background: url('sprite.png') 0 -594px; width: 16px; height: 16px; } 
+.sprite-folder_edit{ background: url('sprite.png') 0 -660px; width: 16px; height: 16px; } 
+.sprite-group{ background: url('sprite.png') 0 -726px; width: 16px; height: 16px; } 
+.sprite-group_add{ background: url('sprite.png') 0 -792px; width: 16px; height: 16px; } 
+.sprite-group_delete{ background: url('sprite.png') 0 -858px; width: 16px; height: 16px; } 
+.sprite-group_edit{ background: url('sprite.png') 0 -924px; width: 16px; height: 16px; } 
+.sprite-page_white{ background: url('sprite.png') 0 -990px; width: 16px; height: 16px; } 
+.sprite-page_white_acrobat{ background: url('sprite.png') 0 -1056px; width: 16px; height: 16px; } 
+.sprite-page_white_actionscript{ background: url('sprite.png') 0 -1122px; width: 16px; height: 16px; } 
+.sprite-page_white_add{ background: url('sprite.png') 0 -1188px; width: 16px; height: 16px; } 
+.sprite-page_white_c{ background: url('sprite.png') 0 -1254px; width: 16px; height: 16px; } 
+.sprite-page_white_camera{ background: url('sprite.png') 0 -1320px; width: 16px; height: 16px; } 
+.sprite-page_white_cplusplus{ background: url('sprite.png') 0 -1386px; width: 16px; height: 16px; } 
+.sprite-page_white_csharp{ background: url('sprite.png') 0 -1452px; width: 16px; height: 16px; } 
+.sprite-page_white_cup{ background: url('sprite.png') 0 -1518px; width: 16px; height: 16px; } 
+.sprite-page_white_delete{ background: url('sprite.png') 0 -1584px; width: 16px; height: 16px; } 
+.sprite-page_white_edit{ background: url('sprite.png') 0 -1650px; width: 16px; height: 16px; } 
+.sprite-page_white_excel{ background: url('sprite.png') 0 -1716px; width: 16px; height: 16px; } 
+.sprite-page_white_php{ background: url('sprite.png') 0 -1782px; width: 16px; height: 16px; } 
+.sprite-page_white_powerpoint{ background: url('sprite.png') 0 -1848px; width: 16px; height: 16px; } 
+.sprite-page_white_ruby{ background: url('sprite.png') 0 -1914px; width: 16px; height: 16px; } 
+.sprite-user{ background: url('sprite.png') -66px 0; width: 16px; height: 16px; } 
+.sprite-user_add{ background: url('sprite.png') -66px -66px; width: 16px; height: 16px; } 
+.sprite-user_delete{ background: url('sprite.png') -66px -132px; width: 16px; height: 16px; } 
+.sprite-user_edit{ background: url('sprite.png') -66px -198px; width: 16px; height: 16px; } 

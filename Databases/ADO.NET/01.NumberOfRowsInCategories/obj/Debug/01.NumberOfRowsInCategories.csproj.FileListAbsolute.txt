@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\bin\Debug\01.NumberOfRowsInCategories.exe.config
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\bin\Debug\01.NumberOfRowsInCategories.exe
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\bin\Debug\01.NumberOfRowsInCategories.pdb
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\obj\Debug\01.NumberOfRowsInCategories.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\obj\Debug\01.NumberOfRowsInCategories.exe
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\01.NumberOfRowsInCategories\obj\Debug\01.NumberOfRowsInCategories.pdb

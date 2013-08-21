@@ -1,0 +1,30 @@
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe.config
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+C:\Dropbox\Work\VariousTests\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe.config
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe.config
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+C:\Dropbox\Work\oop\Lectures\7. OOP Workshop - Game Development\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe.config
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+C:\Users\Georgi\Downloads\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe.config
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.exe
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.pdb
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.exe
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\bin\Debug\AcademyPopcorn.pdb
+C:\Users\Georgi\Desktop\Telerik\CSharpOOP\AcademyPopcorn\AcademyPopcorn\AcademyPopcorn\obj\Debug\AcademyPopcorn.csprojResolveAssemblyReference.cache

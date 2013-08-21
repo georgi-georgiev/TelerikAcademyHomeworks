@@ -1,0 +1,9 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task1_FileReadAndPrint\bin\Debug\task1_FileReadAndPrint.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\01.FileReadAndPrint\bin\Debug\task1_FileReadAndPrint.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\01.FileReadAndPrint\bin\Debug\task1_FileReadAndPrint.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\01.FileReadAndPrint\bin\Debug\task1_FileReadAndPrint.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\01.FileReadAndPrint\obj\Debug\task1_FileReadAndPrint.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\01.FileReadAndPrint\obj\Debug\task1_FileReadAndPrint.pdb
+C:\Users\Georgi\Desktop\Telerik\CSharp2\TextFiles\01.FileReadAndPrint\bin\Debug\task1_FileReadAndPrint.exe.config
+C:\Users\Georgi\Desktop\Telerik\CSharp2\TextFiles\01.FileReadAndPrint\obj\Debug\task1_FileReadAndPrint.exe
+C:\Users\Georgi\Desktop\Telerik\CSharp2\TextFiles\01.FileReadAndPrint\obj\Debug\task1_FileReadAndPrint.pdb

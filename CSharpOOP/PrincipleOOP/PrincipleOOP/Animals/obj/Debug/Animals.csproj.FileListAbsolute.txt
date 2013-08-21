@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\bin\Debug\Animals.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\bin\Debug\Animals.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\bin\Debug\Animals.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\obj\Debug\Animals.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Animals\obj\Debug\Animals.pdb

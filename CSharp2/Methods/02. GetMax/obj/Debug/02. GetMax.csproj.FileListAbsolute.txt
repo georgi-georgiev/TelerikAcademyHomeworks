@@ -1,0 +1,2 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\02. GetMax\bin\Debug\_02.GetMax.exe.config
+C:\Users\Georgi\Desktop\Telerik\CSharp2\Methods\02. GetMax\bin\Debug\_02.GetMax.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\bin\Debug\task3_LineNumbering.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\bin\Debug\task3_LineNumbering.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\bin\Debug\task3_LineNumbering.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\obj\Debug\task3_LineNumbering.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task3_LineNumbering\obj\Debug\task3_LineNumbering.pdb

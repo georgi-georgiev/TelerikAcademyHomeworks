@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\8.QuotedString\bin\Debug\8.QuotedString.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\8.QuotedString\bin\Debug\8.QuotedString.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\8.QuotedString\bin\Debug\8.QuotedString.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\8.QuotedString\obj\Debug\8.QuotedString.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\8.QuotedString\obj\Debug\8.QuotedString.pdb

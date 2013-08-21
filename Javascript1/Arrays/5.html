@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var arr = [5,8,6,4,27,1];
+var secondArr = new Array(arr.length);
+var min;
+var temp;
+for(var firstIndex=0;firstIndex<arr.length;firstIndex++)
+{
+	min=arr[firstIndex];
+	for(var index=firstIndex+1;index<arr.length;index++)
+	{
+		if(min>arr[index])
+		{
+			min=arr[index];
+		}
+	}
+	temp = arr[firstIndex];
+	arr[arr.indexOf(min)] = temp;
+	arr[firstIndex] = min;
+	
+	secondArr[firstIndex]=min;
+}
+for(var index=0;index<arr.length;index++)
+{
+	console.log(secondArr[index]);
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\bin\Debug\Bank.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\bin\Debug\Bank.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\bin\Debug\Bank.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\obj\Debug\Bank.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\Bank\obj\Debug\Bank.pdb

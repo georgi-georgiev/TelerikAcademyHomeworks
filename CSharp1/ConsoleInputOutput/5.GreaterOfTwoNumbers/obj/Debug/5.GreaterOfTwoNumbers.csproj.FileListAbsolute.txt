@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\5.GreaterOfTwoNumbers\bin\Debug\5.GreaterOfTwoNumbers.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\5.GreaterOfTwoNumbers\bin\Debug\5.GreaterOfTwoNumbers.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\5.GreaterOfTwoNumbers\bin\Debug\5.GreaterOfTwoNumbers.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\5.GreaterOfTwoNumbers\obj\Debug\5.GreaterOfTwoNumbers.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\5.GreaterOfTwoNumbers\obj\Debug\5.GreaterOfTwoNumbers.pdb

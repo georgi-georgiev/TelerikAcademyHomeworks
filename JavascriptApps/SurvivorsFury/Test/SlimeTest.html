@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scrypt/jquery-2.0.1.min.js"></script>
+    <link href="Styles/qunit-1.11.0.css" rel="stylesheet" />
+    <script src="Scrypt/game.js"></script>
+    <script src="Scrypt/qunit-1.11.0.js"></script>
+    <script src="Scrypt/web-storage-objects.js"></script>
+</head>
+<body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <script>
+        test("Create Slime",
+  function () {
+      var actual = new Slime();
+      actual.init("div", 70, 1190, "slimeAnim");
+      var testSlime = {
+        div : "div",
+        x1: 70,
+        x2: 1190,
+        direction : 1,
+        speed : 3,
+        dead : false,
+        standing : false,
+        dmg : 3,
+          };
+      equal(actual.x1, testSlime.x1, "Max left position");
+      equal(actual.x2, testSlime.x2, "Max right position");
+      equal(actual.speed, testSlime.speed, "Slime speed");
+      equal(actual.dead, testSlime.dead, "Is dead!")
+      equal(actual.standing, testSlime.standing, "Is slime standing")
+      equal(actual.dmg, testSlime.dmg, "Strength of damage")
+      equal(actual.direction, testSlime.direction, "Direction of monster")
+      //equal(piece.size, "15"); //asserts TRUE
+      //deepEqual(piece.size, 15); //asserts FALSE
+  });
+        test("Functionality Slime",
+function () {
+    var actual = new Slime();
+    actual.init("div", 70, 1190, "slimeAnim");
+    actual.kill();
+   var isatacked =  actual.attack();
+    var testSlime = {
+        div: "div",
+        x1: 70,
+        x2: 1190,
+        direction: 1,
+        speed: 3,
+        dead: true,
+        standing: false,
+        dmg: 3,
+        attacked:true,
+    };
+    equal(actual.dead, testSlime.dead, "Is killed");
+    equal(isatacked, testSlime.attacked, "Is atack");
+});
+test("Functionality Slime",
+    function () {
+    var actual = new Slime();
+    actual.init("div", 70, 1190, "slimeAnim");
+    actual.attack();
+    var isatacked = actual.attack();
+    var testSlime = {
+        div: "div",
+        x1: 70,
+        x2: 1190,
+        direction: 1,
+        speed: 3,
+        dead: true,
+        standing: false,
+        dmg: 3,
+        attacked: false,
+    };
+    equal(isatacked, testSlime.attacked, "Is not atack");
+});
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+#container{
+	width: 121px;
+	height: 169px;
+	background: url('bucket.png') no-repeat;
+}
+.trash{
+	width: 66px;
+	height: 52px;
+	background: url('trash.png') no-repeat;
+}
+</style>
+    
+</head>
+<body ondrop="setName()">
+	<div id="container" ondrop="drop(event)" ondragover="allowDrop(event)">
+	</div>
+	<div id="rank">
+	</div>
+	<div id="first" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	<div id="second" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	<div id="third" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	<button onclick="startAgain()">start again</button>
+	<button onclick="refresh()">refresh</button>
+	<script>
+        function allowDrop(ev) {
+            ev.preventDefault();
+        }
+
+        function drag(ev) {
+            ev.dataTransfer.setData("dragged-id", ev.target.id);
+        }
+
+        function drop(ev) {
+            ev.preventDefault();
+            var data = ev.dataTransfer.getData("dragged-id");
+			document.getElementById("container").style.backgroundImage = "url('bucket-hover.png')";
+            document.body.removeChild(document.getElementById(data));
+			setTimeout(function() {
+				document.getElementById("container").style.backgroundImage = "url('bucket.png')";
+			}, 1000);
+			
+        }
+		
+		printRank();
+		
+		var timeNow;
+		var timeLater;
+		var firstEl = document.getElementById("first");
+		firstEl.ondrag = function(){
+			timeNow = new Date().getTime();
+			timeLater;
+		};
+		function setName() {
+			var trash = document.getElementsByClassName("trash");
+			if (trash.length == 0) {
+				timeLater = new Date().getTime();
+
+				var label = document.createElement("label");
+				label.innerText = "Enter your name.";
+				label.htmlFor = "name";
+
+				var inputName = document.createElement("input");
+				inputName.type = "text";
+				inputName.id = "name";
+
+				var button = document.createElement("button");
+				button.innerText = "Save";
+				button.onclick = saveScore;
+
+				document.body.appendChild(label);
+				document.body.appendChild(inputName);
+				document.body.appendChild(button);
+			}
+		}
+		function saveScore() {
+			var inputName = document.getElementById("name");
+			var key = (timeLater - timeNow) / 1000;
+			var value = inputName.value;
+			localStorage.setItem(key, value);
+			printRank();
+		}
+
+		function printRank() {
+			var storageArray = []; // array to storage keys
+			for (var i = 0; i < localStorage.length; i++) {
+
+				storageArray[i] = parseFloat(localStorage.key(i)); // pars keys
+			}
+			storageArray.sort(function (a, b) { return a - b }); // sort array
+			var div = document.getElementById("rank");
+			div.innerHTML = "";
+			for (var j = 0; j < storageArray.length; j++) {
+				var key = storageArray[j];
+				var value = localStorage.getItem(key);
+				div.innerHTML += key + " - ";
+				div.innerHTML += value + "<br/>";
+			}
+		}
+		function startAgain(){
+			document.location.reload(true);
+		}
+		function refresh(){
+			window.localStorage.clear(); //clear local storage
+			document.location.reload(true);
+		}
+    </script>
+</body>
+</html>

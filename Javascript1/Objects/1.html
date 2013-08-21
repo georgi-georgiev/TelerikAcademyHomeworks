@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var firstPoint = {
+	x : 2,
+	y : 3
+};
+var secondPoint = {
+	x : 4,
+	y : 5
+};
+var thirdPoint = {
+	x : 1,
+	y : -2
+};
+var fourthPoint = {
+	x : -2,
+	y : 2
+};
+var fivthPoint = {
+	x : 2,
+	y : 5
+};
+var sixthPoint = {
+	x : 1,
+	y : 3
+};
+
+var firstLine = calculateDistance(firstPoint, secondPoint);
+console.log("FirstLine : "+firstLine);
+var secondLine = calculateDistance(thirdPoint, fourthPoint);
+console.log("SecondLine : "+secondLine);
+var thirdLine = calculateDistance(fivthPoint, sixthPoint);
+console.log("ThirdLine : "+thirdLine);
+var check = checksFormTriangle(firstLine, secondLine, thirdLine);
+console.log("Can form triangle : "+check);
+
+function calculateDistance(firstPoint, secondPoint){
+	return Math.sqrt((firstPoint.x-secondPoint.x)*(firstPoint.x-secondPoint.x) + (firstPoint.y-secondPoint.y)*(firstPoint.y-secondPoint.y));
+};
+
+function checksFormTriangle(firstLine, secondLine, thirdLine){
+	return (firstLine < (secondLine + thirdLine)) && (secondLine < (firstLine + thirdLine)) && (thirdLine < (firstLine + secondLine));
+};
+
+</script>
+</head>
+<body>
+  
+</body>
+</html>

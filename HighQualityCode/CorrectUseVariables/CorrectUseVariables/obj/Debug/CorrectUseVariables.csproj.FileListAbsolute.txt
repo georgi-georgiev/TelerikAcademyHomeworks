@@ -1,0 +1,2 @@
+c:\users\georgi\documents\visual studio 2012\Projects\CorrectUseVariables\CorrectUseVariables\bin\Debug\CorrectUseVariables.exe.config
+C:\Users\Georgi\Desktop\Telerik\HighQualityCode\CorrectUseVariables\CorrectUseVariables\bin\Debug\CorrectUseVariables.exe.config

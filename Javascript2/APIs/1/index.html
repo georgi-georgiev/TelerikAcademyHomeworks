@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style>
+#container{
+	width: 121px;
+	height: 169px;
+	background: url('bucket.png') no-repeat;
+}
+.trash{
+	width: 66px;
+	height: 52px;
+	background: url('trash.png') no-repeat;
+}
+</style>
+    <script>
+        function allowDrop(ev) {
+            ev.preventDefault();
+        }
+
+        function drag(ev) {
+            ev.dataTransfer.setData("dragged-id", ev.target.id);
+        }
+
+        function drop(ev) {
+            ev.preventDefault();
+            var data = ev.dataTransfer.getData("dragged-id");
+			document.getElementById("container").style.backgroundImage = "url('bucket-hover.png')";
+            document.body.removeChild(document.getElementById(data));
+			setTimeout(function() {
+				document.getElementById("container").style.backgroundImage = "url('bucket.png')";
+			}, 1000);
+			
+        }
+		
+    </script>
+</head>
+<body>
+	<div id="container" ondrop="drop(event)" ondragover="allowDrop(event)">
+	</div>
+	<div id="rank">
+	</div>
+	<div id="first" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	<div id="second" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	<div id="third" class="trash" draggable="true" ondragstart="drag(event)">
+	</div>
+	
+</body>
+</html>

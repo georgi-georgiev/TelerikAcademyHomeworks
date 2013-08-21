@@ -1,0 +1,35 @@
+html, body{
+	background-color: #666;
+	color: #fff;
+}
+table{
+	width: 400px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+table th, table {
+	float: left;
+}
+table th, table td#response, table td#action{
+	color:#8E9C9E;
+}
+table td{
+	width: 200px;
+}
+table td:first-child{
+	font-style: italic;
+}
+table td#parker{
+	color: #71B47A;
+}
+table td#name{
+	color:#D20B07;
+	font-weight: bold;
+}
+table td#link, table td#email{
+	color: #E3BE7E;
+}
+table td#status{
+	color: #B16925;
+	font-weight: bold;
+}

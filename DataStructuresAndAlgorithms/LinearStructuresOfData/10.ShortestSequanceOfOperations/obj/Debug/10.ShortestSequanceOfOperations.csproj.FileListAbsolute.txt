@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\10.ShortestSequanceOfOperations\bin\Debug\10.ShortestSequanceOfOperations.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\10.ShortestSequanceOfOperations\bin\Debug\10.ShortestSequanceOfOperations.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\10.ShortestSequanceOfOperations\bin\Debug\10.ShortestSequanceOfOperations.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\10.ShortestSequanceOfOperations\obj\Debug\10.ShortestSequanceOfOperations.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\10.ShortestSequanceOfOperations\obj\Debug\10.ShortestSequanceOfOperations.pdb

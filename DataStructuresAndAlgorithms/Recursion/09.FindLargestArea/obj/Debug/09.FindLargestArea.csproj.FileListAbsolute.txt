@@ -1,0 +1,1 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\09.FindLargestArea\bin\Debug\09.FindLargestArea.exe.config

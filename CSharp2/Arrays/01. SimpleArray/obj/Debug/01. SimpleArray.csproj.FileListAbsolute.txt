@@ -1,0 +1,9 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\bin\Debug\_01.SimpleArray.exe.config
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\bin\Debug\_01.SimpleArray.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\bin\Debug\_01.SimpleArray.pdb
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\obj\Debug\01. SimpleArray.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\obj\Debug\_01.SimpleArray.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\01. SimpleArray\obj\Debug\_01.SimpleArray.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Arrays\01. SimpleArray\bin\Debug\_01.SimpleArray.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Arrays\01. SimpleArray\obj\Debug\_01.SimpleArray.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Arrays\01. SimpleArray\obj\Debug\_01.SimpleArray.pdb

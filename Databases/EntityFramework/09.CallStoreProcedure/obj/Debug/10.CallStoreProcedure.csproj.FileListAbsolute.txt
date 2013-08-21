@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\09.CallStoreProcedure.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\obj\Debug\10.CallStoreProcedure.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\09.CallStoreProcedure.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\09.CallStoreProcedure.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\obj\Debug\09.CallStoreProcedure.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\obj\Debug\09.CallStoreProcedure.pdb

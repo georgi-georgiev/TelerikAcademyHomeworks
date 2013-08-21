@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\DataStructuresEfficiency.exe.config

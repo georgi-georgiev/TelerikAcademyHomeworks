@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scrypt/jquery-2.0.1.min.js"></script>
+    <link href="Styles/qunit-1.11.0.css" rel="stylesheet" />
+    <script src="Scrypt/game.js"></script>
+    <script src="Scrypt/qunit-1.11.0.js"></script>
+    <script src="Scrypt/web-storage-objects.js"></script>
+</head>
+<body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <script>
+        test("Create player",
+  function () {
+      var actual = new player();
+      var testplayer = {
+      health : 100,
+      acceleration : 9,
+      speed : 50,
+      status : "jump",
+      horizontalMove : 480,
+      direction : "right"
+      };
+      equal(actual.health, 100, "Player start health");
+      equal(actual.acceleration, 9, "Player start acceleration");
+      equal(actual.speed, 50, "Player speed");
+      equal(actual.status, "jump", "Player starting status is jump")
+      equal(actual.horizontalMove, 480, "Player horizontalMove position")
+      equal(actual.direction, "right", "Player direction")
+  });
+        test("Functionality player",
+        function () {
+            var actual = new player();
+            actual.takeDamage(5);
+            equal(actual.health, 95, "Is killed");
+        });
+        test("Functionality player",
+            function () {
+                var actual = new player();
+                actual.init("div", 70, 1190, "playerAnim");
+                actual.attack();
+                var isatacked = actual.attack();
+                var testplayer = {
+                    div: "div",
+                    x1: 70,
+                    x2: 1190,
+                    direction: 1,
+                    speed: 3,
+                    dead: true,
+                    standing: false,
+                    dmg: 3,
+                    attacked: false,
+                };
+                equal(isatacked, testplayer.attacked, "Is not atack");
+            });
+        test("Functionality player",
+    function () {
+        var actual = new player();
+        actual.init("div", 70, 1190, "playerAnim");
+        actual.dies();
+        var testplayer = {
+            div: "div",
+            x1: 70,
+            x2: 1190,
+            direction: 1,
+            speed: 3,
+            dead: true,
+            standing: false,
+            dmg: 3,
+            attacked: false,
+            y: 5,
+        };
+        equal(actual.y, testplayer.y, "Position is changing player is fall");
+    });
+    </script>
+</body>
+</html>

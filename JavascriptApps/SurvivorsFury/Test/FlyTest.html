@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Scrypt/jquery-2.0.1.min.js"></script>
+    <link href="Styles/qunit-1.11.0.css" rel="stylesheet" />
+    <script src="Scrypt/game.js"></script>
+    <script src="Scrypt/qunit-1.11.0.js"></script>
+    <script src="Scrypt/web-storage-objects.js"></script>
+</head>
+<body>
+    <div id="qunit"></div>
+    <div id="qunit-fixture"></div>
+    <script>
+        test("Create Fly",
+  function () {
+      var actual = new Fly();
+      actual.init("div", 70, 1190, "FlyAnim");
+      var testFly = {
+          div: "div",
+          x1: 70,
+          x2: 1190,
+          direction: 1,
+          speed: 7,
+          dead: false,
+          standing: false,
+          dmg: 5,
+      };
+      equal(actual.x1, testFly.x1, "Max left position");
+      equal(actual.x2, testFly.x2, "Max right position");
+      equal(actual.speed, testFly.speed, "Fly speed");
+      equal(actual.dead, testFly.dead, "Is dead!")
+      equal(actual.standing, testFly.standing, "Is Fly standing")
+      equal(actual.dmg, testFly.dmg, "Strength of damage")
+      equal(actual.direction, testFly.direction, "Direction of monster")
+  });
+        test("Functionality Fly",
+        function () {
+            var actual = new Fly();
+            actual.init("div", 70, 1190, "FlyAnim");
+            actual.kill();
+            var isatacked = actual.attack();
+            var testFly = {
+                div: "div",
+                x1: 70,
+                x2: 1190,
+                direction: 1,
+                speed: 3,
+                dead: true,
+                standing: false,
+                dmg: 3,
+                attacked: true,
+            };
+            equal(actual.dead, testFly.dead, "Is killed");
+            equal(isatacked, testFly.attacked, "Is atack");
+        });
+        test("Functionality Fly",
+            function () {
+                var actual = new Fly();
+                actual.init("div", 70, 1190, "FlyAnim");
+                actual.attack();
+                var isatacked = actual.attack();
+                var testFly = {
+                    div: "div",
+                    x1: 70,
+                    x2: 1190,
+                    direction: 1,
+                    speed: 3,
+                    dead: true,
+                    standing: false,
+                    dmg: 3,
+                    attacked: false,
+                };
+                equal(isatacked, testFly.attacked, "Is not atack");
+            });
+        test("Functionality Fly",
+    function () {
+        var actual = new Fly();
+        actual.init("div", 70, 1190, "FlyAnim");
+        actual.dies();
+        var testFly = {
+            div: "div",
+            x1: 70,
+            x2: 1190,
+            direction: 1,
+            speed: 3,
+            dead: true,
+            standing: false,
+            dmg: 3,
+            attacked: false,
+            y:5,
+        };
+        equal(actual.y, testFly.y, "Position is changing fly is fall");
+    });
+    </script>
+</body>
+</html>

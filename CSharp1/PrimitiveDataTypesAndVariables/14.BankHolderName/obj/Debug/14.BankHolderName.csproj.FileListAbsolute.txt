@@ -1,0 +1,1 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\14.BankHolderName\bin\Debug\14.BankHolderName.exe.config

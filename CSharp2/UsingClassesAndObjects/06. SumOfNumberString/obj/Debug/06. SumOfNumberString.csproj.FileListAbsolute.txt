@@ -1,0 +1,1 @@
+C:\Users\Georgi\Desktop\Telerik\CSharp2\UsingClassesAndObjects\06. SumOfNumberString\bin\Debug\_06.SumOfNumberString.exe.config

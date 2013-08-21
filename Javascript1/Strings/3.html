@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+	var substring = "in";
+	var string = "We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
+	countSubstringInString(substring, string);
+	function countSubstringInString(substring, string)
+	{
+		var count = 0; 
+		for (var i=0;i<string.length;i++) {
+			if (substring == string.toLowerCase().substring(i, i+substring.length)) 
+			count++; 
+		}
+		console.log(count);
+	}
+	</script>
+</head>
+<body>
+
+</body>
+</html>

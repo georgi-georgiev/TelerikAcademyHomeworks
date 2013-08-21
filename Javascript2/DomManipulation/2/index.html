@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body{
+	background: #e2e2e2;
+}
+.circle{
+    width:50px;
+    height:50px;
+    border-radius:50px;
+	
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 300px;
+}
+#circle1{
+	border: 4px dashed yellow;
+	background: red;
+}
+#circle2{
+	border: 4px dashed #C0C0C0;
+	background: blue;
+}
+#circle3{
+	border: 4px dashed #FF00FF;
+	background: yellow;
+}
+#circle4{
+	border: 4px dashed #00FFFF;
+	background: green;
+}
+#circle5{
+	border: 4px dashed white;
+	background: black;
+}
+</style>
+	
+</head>
+<body>
+<h1>Lets play POKER</h1>
+<p>
+Black - 200$<br />
+Blue - 100$<br />
+Red - 50$<br />
+Yellow - 20$<br />
+Green - 10$
+</p>
+		<div id="circle1" class="circle"></div>
+		<div id="circle2" class="circle"></div>
+		<div id="circle3" class="circle"></div>
+		<div id="circle4" class="circle"></div>
+		<div id="circle5" class="circle"></div>
+	<script>
+	
+	//we can use document.querySelectorAll
+	//but this is more funny :)
+	
+	var angle = 0;
+	var radius = 50;
+
+	function animate() {
+		var divName;
+		for(i = 1; i <= 5; i++) {
+			divName ='circle'+i;
+			document.getElementById(divName).style.left = Math.cos(angle + 2 * Math.PI/5*i)/radius * 5000 + 'px';
+			document.getElementById(divName).style.top = Math.sin(angle + 2 * Math.PI/5*i)/radius * 5000 + 'px';
+		}
+		angle = angle + 0.1;
+		setTimeout(animate, 100);
+	}
+
+	animate();
+	</script>
+</body>
+</html>

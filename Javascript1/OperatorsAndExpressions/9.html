@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var x = 2;
+var y = 1;
+var circleX = 1;
+var circleY = 1;
+var radius = 3;
+var rectangleXL = -1;
+var rectangleYL = 1;
+var width = 6;
+var height = 3;
+var rectangleXR = rectangleXL + width;        
+var rectangleYR = rectangleYL - height;  
+var inCircle = false;
+var inRec = false;
+if (Math.sqrt((x - circleX) * (x - circleX) + (y - circleY) * (y - circleY)) < radius)
+{
+	inCircle = true;
+}
+if ((x > rectangleXL && x < rectangleXR) && (y < rectangleYL && y > rectangleYR))
+{
+	inRec = true;
+}
+if(inCircle==true && inRec==false)
+{
+	console.log("yes");
+}
+else
+{
+	console.log("no");
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

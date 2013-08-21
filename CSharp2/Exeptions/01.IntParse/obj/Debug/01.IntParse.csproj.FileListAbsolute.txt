@@ -1,0 +1,12 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\bin\Debug\task1_intParse.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\bin\Debug\task1_intParse.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\bin\Debug\task1_intParse.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\obj\Debug\01.IntParse.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\obj\Debug\task1_intParse.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_Exeptions_HW5\task1_intParse\obj\Debug\task1_intParse.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\bin\Debug\task1_intParse.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\obj\Debug\task1_intParse.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\obj\Debug\task1_intParse.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\bin\Debug\task1_intParse.exe
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\bin\Debug\task1_intParse.pdb
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\Exeptions\01.IntParse\obj\Debug\01.IntParse.csprojResolveAssemblyReference.cache

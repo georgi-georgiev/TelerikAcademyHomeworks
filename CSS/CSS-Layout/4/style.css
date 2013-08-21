@@ -1,0 +1,121 @@
+body{
+	background: #F1F1F1;
+	margin: 0;
+	padding: 0;
+}
+article, aside, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ul,p,h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+	padding: 0;
+}
+ul{
+	margin-top: 20px;
+	list-style: none;
+}
+ul li a:link {
+	text-decoration: none;
+	color: #999999;
+}
+ul:first-line{
+	font-weight: bold;
+	color: #8D0401;
+}
+.clearfix{
+	zoom: 1;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+#cont {
+	width: 960px;
+	margin: 0 auto;
+}
+#pageNav{
+	float: left;
+	width: 180px;
+	padding: 10px;
+}
+#pageSection{
+	margin-top: 15px;
+	float: left;
+	width: 538px;
+	padding: 10px;
+	background: #fff;
+	border: 1px solid #333;
+}
+#pageAside{
+	float: left;
+	width: 180px;
+	padding: 10px;
+}
+#pageSection article {
+	border-bottom: 1px solid #000;
+	margin: 5px;
+}
+#pageSection article section {
+	padding: 5px;
+}
+#pageSection article section #css {
+	float: left;
+	margin: 5px;
+}
+#pageSection article section div {
+	width: 430px;
+	float: left;
+}
+#pageSection article section p {
+	color: #636363;
+}
+#pageSection article section a:link {
+	color:#9D2B2B;
+}
+#pageSection article section a.previous{
+	background: url('previous.png');
+	width: 77px;
+	height: 19px;
+	display: block;
+	float: left;
+}
+#pageSection article section a.next{
+	background: url('next.png');
+	width: 77px;
+	height: 19px;
+	display: block;
+	float: left;
+}
+#pageSection h1 {
+	font-size: 28px;
+}
+#pageSection h2 {
+	color: #fff;
+	background: #808080;
+	font-size: 22px;
+	padding: 2px 5px 2px 5px;
+}
+#pageAside section {
+	border: 1px solid #808080;
+	margin-top: 5px;
+	text-align: center;
+}
+#pageAside section h2 {
+	background: #808080;
+	color:#fff;
+}
+#pageAside section a:link {
+	color:#9D2B2B;
+}
+#searchBox{
+	float: left;
+	width: 110px;
+}
+#searchSubmit{
+	float: left;
+	margin-left: 5px;
+}

@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\5.FindingIfTheBitThree\bin\Debug\5.FindingIfTheBitThree.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\5.FindingIfTheBitThree\bin\Debug\5.FindingIfTheBitThree.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\5.FindingIfTheBitThree\bin\Debug\5.FindingIfTheBitThree.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\5.FindingIfTheBitThree\obj\Debug\5.FindingIfTheBitThree.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\5.FindingIfTheBitThree\obj\Debug\5.FindingIfTheBitThree.pdb

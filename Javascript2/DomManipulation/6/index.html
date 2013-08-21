@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<style>
+	ul{
+		list-style:none;
+		margin: 0;
+		padding: 0;
+	}
+	ul li {
+		background: url("menu.png") no-repeat;
+		padding-left: 40px;
+		line-height: 33px;
+	}
+	li>ul{
+		display: none;
+	}
+	</style>
+	<script>
+		function load(){
+			var allLi = document.getElementsByTagName("li");
+			var i = 0;
+			for(i = 0; i < allLi.length; i++) {
+				allLi[i].addEventListener("click", subNav);
+			}
+			
+			function subNav(event) {
+				if(typeof this.getElementsByTagName("ul")[0] == "undefined") return 0;
+				if(this === event.target && this.getElementsByTagName("ul")[0].style.display == "block") {
+					this.getElementsByTagName("ul")[0].style.display = "none";
+				}
+				else {
+					this.getElementsByTagName("ul")[0].style.display = "block";
+				}
+			}
+		}
+	</script>
+</head>
+<body onload="load()">
+	<ul>
+		<li>Nav</li>
+		<li>Nav
+			<ul>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+			</ul>
+		</li>
+		<li>Nav
+			<ul>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+				<li>Subnav 2
+					<ul>
+						<li>Subnav 3</li>
+						<li>Subnav 3</li>
+						<li>Subnav 3</li>
+						<li>Subnav 3</li>
+						<li>Subnav 3</li>
+					</ul>
+				</li>
+				<li>Subnav 2</li>
+				<li>Subnav 2</li>
+			</ul>
+		</li>
+		<li>Nav</li>
+		<li>Nav</li>
+	</ul>
+</body>
+</html>

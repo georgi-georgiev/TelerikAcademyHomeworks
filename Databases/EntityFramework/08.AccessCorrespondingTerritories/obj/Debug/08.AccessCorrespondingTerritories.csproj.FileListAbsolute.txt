@@ -1,0 +1,1 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\08.AccessCorrespondingTerritories\bin\Debug\08.AccessCorrespondingTerritories.exe.config

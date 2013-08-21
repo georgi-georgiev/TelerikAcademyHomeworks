@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\3.InformationAboutCompany\bin\Debug\3.InformationAboutCompany.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\3.InformationAboutCompany\bin\Debug\3.InformationAboutCompany.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\3.InformationAboutCompany\bin\Debug\3.InformationAboutCompany.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\3.InformationAboutCompany\obj\Debug\3.InformationAboutCompany.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\3.InformationAboutCompany\obj\Debug\3.InformationAboutCompany.pdb

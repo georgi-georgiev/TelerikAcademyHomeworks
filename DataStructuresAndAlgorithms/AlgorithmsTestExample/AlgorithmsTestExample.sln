@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MessagesInBottle", "AlgorithmsTestExample\01.MessagesInBottle.csproj", "{F189972D-0BC4-435E-9B95-FD1F3B423C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AcademyTasks", "AcademyTasks\02.AcademyTasks.csproj", "{51C4D5A4-6EAE-49E9-A393-B9EC2FE2C1A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RisksWinsRiskLose", "03.RisksWinsRiskLose\03.RisksWinsRiskLose.csproj", "{BABA46B3-0E51-4F00-83E9-332BAF65FF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F189972D-0BC4-435E-9B95-FD1F3B423C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F189972D-0BC4-435E-9B95-FD1F3B423C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F189972D-0BC4-435E-9B95-FD1F3B423C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F189972D-0BC4-435E-9B95-FD1F3B423C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C4D5A4-6EAE-49E9-A393-B9EC2FE2C1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C4D5A4-6EAE-49E9-A393-B9EC2FE2C1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C4D5A4-6EAE-49E9-A393-B9EC2FE2C1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C4D5A4-6EAE-49E9-A393-B9EC2FE2C1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABA46B3-0E51-4F00-83E9-332BAF65FF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABA46B3-0E51-4F00-83E9-332BAF65FF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABA46B3-0E51-4F00-83E9-332BAF65FF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABA46B3-0E51-4F00-83E9-332BAF65FF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

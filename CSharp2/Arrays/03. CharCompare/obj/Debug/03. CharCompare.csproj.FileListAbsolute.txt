@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\03. CharCompare\bin\Debug\_03.CharCompare.exe.config
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\03. CharCompare\bin\Debug\_03.CharCompare.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\03. CharCompare\bin\Debug\_03.CharCompare.pdb
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\03. CharCompare\obj\Debug\_03.CharCompare.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\03. CharCompare\obj\Debug\_03.CharCompare.pdb

@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\01.UsingVSFDesignerDBContext.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\01.UsingVSFDesignerDBContext.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\01.UsingVSFDesignerDBContext.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\obj\Debug\01.UsingVSFDesignerDBContext.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\obj\Debug\01.UsingVSFDesignerDBContext.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\01.UsingVSFDesignerDBContext\obj\Debug\01.UsingVSFDesignerDBContext.pdb

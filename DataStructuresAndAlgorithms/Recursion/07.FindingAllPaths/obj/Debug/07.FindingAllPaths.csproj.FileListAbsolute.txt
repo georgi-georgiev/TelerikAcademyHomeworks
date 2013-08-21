@@ -1,0 +1,1 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\07.FindingAllPaths\bin\Debug\07.FindingAllPaths.exe.config

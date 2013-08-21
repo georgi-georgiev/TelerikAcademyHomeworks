@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\ReverseIntegers\bin\Debug\ReverseIntegers.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\ReverseIntegers\obj\Debug\ReverseIntegers.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\ReverseIntegers\obj\Debug\ReverseIntegers.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\ReverseIntegers\bin\Debug\ReverseIntegers.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\ReverseIntegers\bin\Debug\ReverseIntegers.pdb

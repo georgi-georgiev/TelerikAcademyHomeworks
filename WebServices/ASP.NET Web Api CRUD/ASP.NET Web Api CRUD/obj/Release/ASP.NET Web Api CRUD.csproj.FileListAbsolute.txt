@@ -1,0 +1,31 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\ASP.NET Web Api CRUD.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\ASP.NET Web Api CRUD.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\Antlr3.Runtime.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\EntityFramework.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\Newtonsoft.Json.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Net.Http.Formatting.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Helpers.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Http.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Http.WebHost.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Mvc.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Optimization.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Providers.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Razor.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.Deployment.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.Razor.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\WebGrease.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\EntityFramework.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\Newtonsoft.Json.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Net.Http.Formatting.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Helpers.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Http.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Http.WebHost.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Mvc.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.Razor.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.Deployment.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\bin\System.Web.WebPages.Razor.xml
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\obj\Release\ASP.NET Web Api CRUD.dll
+c:\users\georgi\documents\visual studio 2012\Projects\ASP.NET Web Api CRUD\ASP.NET Web Api CRUD\obj\Release\ASP.NET Web Api CRUD.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\02. TwoArrayCompare\bin\Debug\_02.TwoArrayCompare.exe.config
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\02. TwoArrayCompare\bin\Debug\_02.TwoArrayCompare.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\02. TwoArrayCompare\bin\Debug\_02.TwoArrayCompare.pdb
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\02. TwoArrayCompare\obj\Debug\_02.TwoArrayCompare.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\07. Arrays\02. TwoArrayCompare\obj\Debug\_02.TwoArrayCompare.pdb

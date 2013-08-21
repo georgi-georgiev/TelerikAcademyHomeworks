@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\08.ReadProductWithString\bin\Debug\08.ReadProductWithString.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\08.ReadProductWithString\bin\Debug\08.ReadProductWithString.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\08.ReadProductWithString\bin\Debug\08.ReadProductWithString.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\08.ReadProductWithString\obj\Debug\08.ReadProductWithString.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\08.ReadProductWithString\obj\Debug\08.ReadProductWithString.pdb

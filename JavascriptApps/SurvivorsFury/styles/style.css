@@ -1,0 +1,144 @@
+﻿body {
+    background-color: #333;
+}
+
+#game {
+    margin: 100px auto;
+    background-color: #777;
+    width: 960px;
+    height: 600px;
+}
+
+#mygame {
+    background-color: #edecec;
+}
+
+#healthbar-frame {
+    width: 360px;
+    height: 90px;
+    position: absolute;
+    right: 0;
+    background: url('../assets/healthbar-frame.png') no-repeat center center;
+    z-index: 1000;
+}
+
+#healthbar {
+    width: 360px;
+    height: 90px;
+    background: url('../assets/healthbar.png') no-repeat left center;
+    z-index: 100;
+    overflow:hidden;
+}
+
+audio {
+    display: none;
+}
+
+#timer {
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana;
+    color: #777;
+    
+}
+
+#user-message {
+    z-index: 2000;
+    font-size: 60px;
+    position: absolute;
+    top: 70px;
+    text-align: center;
+    width: 100%;
+    font-family: Verdana;
+    color: #777;
+}
+
+#gameover {
+    background-color:#fff;
+    position: relative;
+    margin: 0 auto;
+    opacity: 0.8;
+    display: block;
+    width: 600px;
+    height: 100%;
+    text-align: center;
+    z-index:1001;
+    padding: 10px 20px;
+    border-left:1px solid #777;
+    border-right:1px solid #777;
+    display:none;       
+}
+
+    #gameover.text {
+        font-size: 30px;
+        text-align: center;
+        font-family: Verdana;
+        color: #777;
+    }
+
+#shared-fields #name-player {
+    text-align:center;
+    font-size:0.7em;
+}
+
+#shared-btn {
+    text-align:center;
+    margin:0;
+}
+
+#highscore {
+    margin:40px;
+    text-align:center;
+}
+#highscore #btn_highscore {
+        text-align:center;
+        text-decoration:none;
+        margin-top:10px;
+        color:#333;
+        border:1px solid #333;
+        line-height:10px;
+        height:10px;
+        padding:10px 30px;
+        background: linear-gradient(to bottom, #ddd 0%, #eee 100%);
+        font-size:30px;
+}
+
+#highscore #btn_highscore:hover {
+        background: linear-gradient(to top, #ddd 0%, #eee 100%); 
+}
+
+
+
+#scores-list {
+    width:400px;
+    margin-top:10px;
+    color:#fff;
+    margin-left:10px;
+    font-size:14px;
+    background-color: rgba(237, 236, 235, 0.7);
+    margin-bottom: 40px;
+    z-index:1002;
+    text-align:center;
+    margin-left:50px;
+}
+#scores-list table {
+    margin-top:40px;
+    width:100%;
+    border:1px solid #333;
+}
+#scores-list tr:nth-child(2n+1)
+{
+    background-color: rgba(161, 161, 153, 0.7);
+}
+
+#btn_save_results {
+     font-size: 30px;
+     text-align: center;
+     width: 100%;
+     font-family: Verdana;
+     color: #777;
+     text-decoration:none;
+     border: 1px solid #333;
+     padding: 5px 15px;
+}

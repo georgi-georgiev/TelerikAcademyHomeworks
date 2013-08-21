@@ -1,0 +1,97 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+	var text = "We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have <lowcase>anything</lowcase> else.";
+	changeText(text);
+	function changeText(text)
+	{
+			var mixCaseStart = "<mixcase>";
+			var mixCaseEnd = "</mixcase>";
+			var indexStart = text.indexOf(mixCaseStart);
+	        while (indexStart > -1) {
+	            var oldText = text.substring(indexStart + mixCaseStart.length, text.indexOf(mixCaseEnd, indexStart));
+	            var newText = new String(oldText);
+	            for (var i = 0; i < newText.length ; i++)
+	            {
+	                if(i%2==0)
+	                {
+	                    newText = newText.replace(newText[i],newText[i].toUpperCase())
+	                }
+	                else
+	                {
+	                    newText = newText.replace(newText[i], newText[i].toLowerCase())
+	                }
+	            }
+	            text = text.replace(oldText, newText);
+	            indexStart = text.indexOf(mixCaseStart, indexStart + 1);
+	        }
+	        //Remove
+	        for(var i=0; i<=countSubstringInString(mixCaseStart, text); i++)
+	        {
+	        	text = text.replace(mixCaseStart, "");
+	        	text = text.replace(mixCaseEnd, "");
+	        }
+
+
+	        var upCaseStart = "<upcase>";
+			var upCaseEnd = "</upcase>";
+			var indexStart = text.indexOf(upCaseStart);
+	        while (indexStart > -1) {
+	            var oldText = text.substring(indexStart + upCaseStart.length, text.indexOf(upCaseEnd, indexStart));
+	            var newText = new String(oldText);
+	            for (var i = 0; i < newText.length ; i++)
+	            {
+                    newText = newText.replace(newText[i],newText[i].toUpperCase());
+	            }
+	            text = text.replace(oldText, newText);
+	            indexStart = text.indexOf(upCaseStart, indexStart + 1);
+	        }
+	        //Remove
+	        for(var i=0; i<=countSubstringInString(upCaseStart, text); i++)
+	        {
+	        	text = text.replace(upCaseStart, "");
+	        	text = text.replace(upCaseEnd, "");
+	        }
+
+	        var lowCaseStart = "<lowcase>";
+			var lowCaseEnd = "</lowcase>";
+			var indexStart = text.indexOf(lowCaseStart);
+	        while (indexStart > -1) {
+	            var oldText = text.substring(indexStart + lowCaseStart.length, text.indexOf(lowCaseEnd, indexStart));
+	            var newText = new String(oldText);
+	            for (var i = 0; i < newText.length ; i++)
+	            {
+                    newText = newText.replace(newText[i],newText[i].toLowerCase());
+	            }
+	            text = text.replace(oldText, newText);
+	            indexStart = text.indexOf(lowCaseStart, indexStart + 1);
+	        }
+	        //Remove
+	        for(var i=0; i<=countSubstringInString(lowCaseStart, text); i++)
+	        {
+	        	text = text.replace(lowCaseStart, "");
+	        	text = text.replace(lowCaseEnd, "");
+	        }
+
+
+		console.log(text);
+	}
+
+
+	//Exercise 1
+	function countSubstringInString(substring, string)
+	{
+		var count = 0; 
+		for (var i=0;i<string.length;i++) {
+			if (substring == string.toLowerCase().substring(i, i+substring.length)) 
+			count++; 
+		}
+		return count;
+	}
+	</script>
+</head>
+<body>
+
+</body>
+</html>

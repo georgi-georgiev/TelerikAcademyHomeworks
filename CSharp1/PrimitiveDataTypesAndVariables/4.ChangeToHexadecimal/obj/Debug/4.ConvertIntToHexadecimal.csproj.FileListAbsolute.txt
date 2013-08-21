@@ -1,0 +1,3 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\4.ChangeToHexadecimal\bin\Debug\4.ChangeToHexadecimal.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\4.ChangeToHexadecimal\obj\Debug\4.ChangeToHexadecimal.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\4.ChangeToHexadecimal\obj\Debug\4.ChangeToHexadecimal.pdb

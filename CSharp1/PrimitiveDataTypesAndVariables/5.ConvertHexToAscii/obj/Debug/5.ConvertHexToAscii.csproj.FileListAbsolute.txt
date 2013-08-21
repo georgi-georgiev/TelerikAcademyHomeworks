@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\5.ConvertHexToAscii\bin\Debug\5.ConvertHexToAscii.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\5.ConvertHexToAscii\bin\Debug\5.ConvertHexToAscii.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\5.ConvertHexToAscii\bin\Debug\5.ConvertHexToAscii.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\5.ConvertHexToAscii\obj\Debug\5.ConvertHexToAscii.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\5.ConvertHexToAscii\obj\Debug\5.ConvertHexToAscii.pdb

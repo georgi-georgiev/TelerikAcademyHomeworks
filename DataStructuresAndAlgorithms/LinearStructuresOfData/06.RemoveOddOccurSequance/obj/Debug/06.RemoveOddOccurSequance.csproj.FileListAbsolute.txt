@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\bin\Debug\06.RemoveOddOccurSequance.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\bin\Debug\06.RemoveOddOccurSequance.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\bin\Debug\06.RemoveOddOccurSequance.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\obj\Debug\06.RemoveOddOccurSequance.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\obj\Debug\06.RemoveOddOccurSequance.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\06.RemoveOddOccurSequance\obj\Debug\06.RemoveOddOccurSequance.csprojResolveAssemblyReference.cache

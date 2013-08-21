@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\09.Print50Members\bin\Debug\09.Print50Members.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\09.Print50Members\bin\Debug\09.Print50Members.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\09.Print50Members\bin\Debug\09.Print50Members.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\09.Print50Members\obj\Debug\09.Print50Members.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\09.Print50Members\obj\Debug\09.Print50Members.pdb

@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\07.TwoDifferentContext.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\07.TwoDifferentContext.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\07.TwoDifferentContext.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\obj\Debug\07.TwoDifferentContext.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\obj\Debug\07.TwoDifferentContext.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\07.TwoDifferentContext\obj\Debug\07.TwoDifferentContext.pdb

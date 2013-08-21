@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\bin\Debug\04.ImplementHashTable.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\obj\Debug\04.ImplementHashTable.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\bin\Debug\04.ImplementHashTable.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\bin\Debug\04.ImplementHashTable.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\obj\Debug\04.ImplementHashTable.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\04.ImplementHashTable\obj\Debug\04.ImplementHashTable.pdb

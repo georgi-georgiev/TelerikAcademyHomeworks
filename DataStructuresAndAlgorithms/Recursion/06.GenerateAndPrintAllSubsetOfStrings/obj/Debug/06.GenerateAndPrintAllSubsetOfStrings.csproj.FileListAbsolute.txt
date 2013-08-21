@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\06.GenerateAndPrintAllSubsetOfStrings\bin\Debug\06.GenerateAndPrintAllSubsetOfStrings.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\06.GenerateAndPrintAllSubsetOfStrings\bin\Debug\06.GenerateAndPrintAllSubsetOfStrings.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\06.GenerateAndPrintAllSubsetOfStrings\bin\Debug\06.GenerateAndPrintAllSubsetOfStrings.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\06.GenerateAndPrintAllSubsetOfStrings\obj\Debug\06.GenerateAndPrintAllSubsetOfStrings.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\06.GenerateAndPrintAllSubsetOfStrings\obj\Debug\06.GenerateAndPrintAllSubsetOfStrings.pdb

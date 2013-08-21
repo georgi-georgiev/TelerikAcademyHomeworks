@@ -1,0 +1,1 @@
+C:\Users\Georgi\Desktop\Telerik\CSharp2\UsingClassesAndObjects\01. IsLeapYear\bin\Debug\_01.IsLeapYear.exe.config

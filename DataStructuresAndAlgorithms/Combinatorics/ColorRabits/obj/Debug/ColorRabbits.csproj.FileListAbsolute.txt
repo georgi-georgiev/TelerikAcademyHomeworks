@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\Combinatorics\ColorRabits\bin\Debug\ColorRabits.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\Combinatorics\ColorRabits\bin\Debug\ColorRabits.exe
+c:\users\georgi\documents\visual studio 2012\Projects\Combinatorics\ColorRabits\bin\Debug\ColorRabits.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\Combinatorics\ColorRabits\obj\Debug\ColorRabits.exe
+c:\users\georgi\documents\visual studio 2012\Projects\Combinatorics\ColorRabits\obj\Debug\ColorRabits.pdb

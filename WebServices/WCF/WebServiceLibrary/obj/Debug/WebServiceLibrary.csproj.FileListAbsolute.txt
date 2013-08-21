@@ -1,0 +1,4 @@
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibrary\bin\WebServiceLibrary.dll
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibrary\bin\WebServiceLibrary.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibrary\obj\Debug\WebServiceLibrary.dll
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibrary\obj\Debug\WebServiceLibrary.pdb

@@ -1,0 +1,33 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+function check()
+{
+	var array = [1,2,3,4,2,3,6,2];
+	var element=-1;
+	for(var i=0; i<array.length; i++)
+	{
+		if(array[i-1]<array[i] && array[i+1]<array[i])
+		{
+			element=i;
+			break;
+		}
+	}
+	document.getElementById('big').innerHTML = element;
+	
+}
+</script>
+</head>
+<body>
+	
+	<div>
+	First element who is bigger than neighbours: <span id="big"></span>
+	</div>
+	
+	<button onclick="check()">
+	Check
+	</button>
+	
+</body>
+</html>

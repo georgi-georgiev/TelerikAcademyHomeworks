@@ -1,0 +1,1 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\06.SchemaGeneration\bin\Debug\06.SchemaGeneration.exe.config

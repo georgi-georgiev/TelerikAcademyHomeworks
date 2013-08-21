@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualPasswords", "Combinatorics\DualPasswords.csproj", "{CEC04489-A47F-4B83-BA07-0891031D4306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorRabbits", "ColorRabits\ColorRabbits.csproj", "{9EAD16CE-3544-4E8E-84A4-986881531560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC04489-A47F-4B83-BA07-0891031D4306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC04489-A47F-4B83-BA07-0891031D4306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC04489-A47F-4B83-BA07-0891031D4306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC04489-A47F-4B83-BA07-0891031D4306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAD16CE-3544-4E8E-84A4-986881531560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAD16CE-3544-4E8E-84A4-986881531560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAD16CE-3544-4E8E-84A4-986881531560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAD16CE-3544-4E8E-84A4-986881531560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

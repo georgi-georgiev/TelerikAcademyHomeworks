@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <!-- dependencies: jQuery + Modernizr with yepnope -->
+    <!--[if lt IE 9]>
+        <script src="modernizr.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="js-webshim/minified/polyfiller.js"></script>
+    <![endif]-->
+    <script>
+        // Polyfill all unsupported features
+        $.webshims.polyfill('forms');
+    </script>
+</head>
+<body>
+    <form id="form" action="#">
+        <p class="required"><span>*</span> Required fields</p>
+        <fieldset>
+            <div class="form-element">
+                <label for="number" id="ID-1365418964460">
+                    number: <dfn title="required">*</dfn>
+                </label>
+                <input type="number" form="form" id="number" placeholder="number" required="required" name="number" style="display: none;" /><input type="text" class="ws-number has-input-buttons" title="" placeholder="number" autocomplete="off" role="spinbutton" aria-labelledby="ID-1365418964460" style="margin-left: 0px; margin-right: 0px; width: 157.4px; padding-right: 20px;" /><span class="input-buttons number-input-buttons input-button-size-1" style="margin-right: 5px;"><span class="step-controls" unselectable="on"><span class="step-up"></span><span class="step-down"></span></span></span>
+            </div>
+            <div class="form-element">
+                <label for="range" id="Label1">
+                    range:
+
+                </label>
+                <input type="range" id="range" name="range" style="display: none;"><span class="ws-range" role="slider" aria-readonly="false" title="" tabindex="0" aria-disabled="false" aria-valuenow="50" aria-valuetext="50" aria-labelledby="ID-1365418964461" style="margin-left: 0px; margin-right: 0px; width: 162.4px;"><span class="ws-range-min" style="width: 50%;" /></span><span class="ws-range-rail"><span class="ws-range-thumb" style="left: 50%;"></span></span></span>
+            </div>
+
+            <div class="form-element">
+                <label for="time" id="Label2">
+                    Time: 
+
+                </label>
+                <input type="time" id="time" name="time" style="display: none;" /><input type="text" class="ws-time has-input-buttons" title="" placeholder="" autocomplete="off" role="spinbutton" aria-labelledby="ID-1365418964462" style="margin-left: 0px; margin-right: 0px; width: 157.4px; padding-right: 20px;" /><span class="input-buttons time-input-buttons input-button-size-1" style="margin-right: 5px;"><span class="step-controls" unselectable="on"><span class="step-up"></span><span class="step-down"></span></span></span>
+            </div>
+
+            <div class="form-element">
+                <label for="password">
+                    password: 
+
+                </label>
+                <input type="password" id="password" name="password" placeholder="password" />
+            </div>
+
+            <div class="form-element">
+                <label for="textarea">
+                    textarea: * ([maxlength="6"])
+
+                </label>
+                <textarea id="textarea" name="textarea" required="required" maxlength="6" placeholder="hello this is a textbox"></textarea>
+            </div>
+
+            <div class="form-element">
+                <label for="select">
+                    select: *
+
+                </label>
+                <select id="select" name="select" required="required">
+                    <option value="">Please choose</option>
+                    <option>Option 1</option>
+                    <option>Option 2</option>
+                    <option>Option 3</option>
+                </select>
+            </div>
+
+            <div class="form-element">
+                <label for="number2" id="Label3">
+                    number + number = output:
+
+                </label>
+                <input type="number" id="number2" name="number2" value="0" step="0.5" style="display: none;" /><input type="text" class="ws-number has-input-buttons" title="" placeholder="" autocomplete="off" role="spinbutton" aria-labelledby="ID-1365418964463" style="margin-left: 0px; margin-right: 0px; width: 157.4px; padding-right: 20px;"><span class="input-buttons number-input-buttons input-button-size-1" style="margin-right: 5px;" /><span class="step-controls" unselectable="on"><span class="step-up"></span><span class="step-down"></span></span></span>
+                <input type="number" value="0" id="number3" name="number3" style="display: none;" /><input type="text" class="ws-number has-input-buttons" title="" placeholder="" autocomplete="off" role="spinbutton" aria-labelledby="" style="margin-left: 0px; margin-right: 0px; width: 157.4px; padding-right: 20px;"><span class="input-buttons number-input-buttons input-button-size-1" style="margin-right: 5px;" /><span class="step-controls" unselectable="on"><span class="step-up"></span><span class="step-down"></span></span></span>
+                <output id="output2"></output>
+
+                <script>
+                    $('#number2').bind('input', function () {
+                        $('#output2').prop('value', ($(this).prop('valueAsNumber') || 0) + ($('#number3').prop('valueAsNumber') || 0));
+                    });
+
+                    $('#number3').bind('input', function () {
+                        $('#output2').prop('value', ($(this).prop('valueAsNumber') || 0) + ($('#number2').prop('valueAsNumber') || 0));
+                    });
+							</script>
+            </div>
+
+            <div class="form-element">
+                <fieldset>
+                    <legend>date +oninput+ range</legend>
+                    <input type="date" max="2011-12-31" min="2011-01-01" value="2011-01-01" id="dateControlledByRange" style="display: none;" /><input type="text" class="ws-date has-input-buttons" title="" placeholder="" autocomplete="off" role="spinbutton" aria-labelledby="" style="margin-left: 0px; margin-right: 0px; width: 136.4px; padding-right: 41px;" /><span class="input-buttons date-input-buttons input-button-size-2" style="margin-right: 3px;"><span class="step-controls" unselectable="on"><span class="step-up"></span><span class="step-down"></span></span>
+                        <button class="ws-popover-opener" type="button" aria-labelledby="" tabindex="-1"><span></span></button>
+                    </span>
+                    <input type="range" style="margin-left: 5px; width: 400px; display: none;" step="86400000" max="1325289600000" min="1293840000000" value="1293840000000" id="rangeControlledByDate" /><span class="ws-range" role="slider" aria-readonly="false" title="" tabindex="0" aria-disabled="false" aria-valuenow="1293840000000" aria-valuetext="1293840000000" aria-labelledby="" style="margin-left: 5px; margin-right: 0px; width: 401.4px;"><span class="ws-range-min" style="width: 0%;"></span><span class="ws-range-rail"><span class="ws-range-thumb" style="left: 0%;"></span></span></span>
+
+                    <script>
+                        $('#dateControlledByRange').bind('input', function () {
+                            $('#rangeControlledByDate').prop('valueAsNumber', $.prop(this, 'valueAsNumber'))
+                        });
+
+                        $('#rangeControlledByDate').bind('input', function () {
+                            $('#dateControlledByRange').prop('valueAsNumber', $.prop(this, 'valueAsNumber'))
+                        });
+							</script>
+                </fieldset>
+            </div>
+
+            <div class="form-item">
+                <label for="progress">
+                    progress
+
+                </label>
+                <progress max="100" value="30" id="progress">100%</progress>
+                <button data-increase="10" type="button">increase by 10</button>
+                <button data-increase="-10" type="button">increase by -10</button>
+                <button class="remove-value" type="button">remove value</button>
+                <script>
+                    $('button[data-increase]').on('click', function () {
+                        var val = $('#progress').prop('value') || 0;
+                        var step = $(this).data('increase');
+                        $('#progress').prop('value', val + step);
+
+                        return false;
+                    });
+                    $('button.remove-value').on('click', function () {
+                        $('#progress').removeAttr('value');
+                        return false;
+                    });
+
+							</script>
+            </div>
+
+            <div>
+                <h4>Radio-Group Headline Short Labels  <dfn title="required">*</dfn></h4>
+                <fieldset class="mod">
+                    <legend>Legend Short Labels  <dfn title="required">*</dfn></legend>
+                    <div class="form-item">
+                        <input type="radio" required="" name="radio-grp1-1" id="field6-1" />
+                        <label for="field6-1">
+                            Radiooption 2
+
+                        </label>
+                    </div>
+                    <div class="form-item">
+                        <input type="radio" name="radio-grp1-1" id="field7-1" />
+                        <label for="field7-1">
+                            Radiooption 2
+
+                        </label>
+                    </div>
+                    <div class="form-item">
+                        <input type="radio" name="radio-grp1-1" id="field8-1" />
+                        <label for="field8-1">
+                            Radiooption 3
+
+                        </label>
+                    </div>
+                </fieldset>
+            </div>
+
+            <div class="button-wrapper">
+                <input type="submit" value="Send" />
+            </div>
+        </fieldset>
+    </form>
+</body>
+</html>

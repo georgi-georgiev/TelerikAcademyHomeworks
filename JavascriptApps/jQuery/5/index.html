@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="../jquery.js"></script>
+		<script>
+	
+	function sortTheTable(sortItems){
+		function sortNum(a, b) {
+			return 1 * $(a).find('.'+sortItems+'').text() > 1 * $(b).find('.'+sortItems+'').text() ? 1 : 0;
+		}
+		function sortString(a, b) {
+			return 1 * $(a).find('.'+sortItems+'').text().length > 1 * $(b).find('.'+sortItems+'').text().length ? 1 : 0;
+		}
+		$(function() {
+			var elems = $.makeArray($('tr:has(.'+sortItems+')').remove());
+			if(sortItems == "sortAge"){
+				elems.sort(sortNum);
+			}
+			else{
+				elems.sort(sortString);
+			}
+			$('#gridViewTable').append($(elems));
+		});
+	}
+	</script>
+		<script>
+			var gridViewControls = (function(){
+			
+				function getGridView(selector){
+				
+					var headers = [];
+					
+					this.getHeader = function(arguments){
+						$(selector).append("<table id='gridViewTable'></table>");
+						for(var i=0; i<arguments.length; i++){
+							$("#gridViewTable").append("<th onclick=\"sortTheTable('sort"+arguments[i]+"');\">"+arguments[i]+"</th");
+							headers.push(arguments[i]);
+						}
+					};
+					
+					this.getRow = function(arguments){
+						$("#gridViewTable").append("<tr></tr>");
+						for(var i=0; i<arguments.length; i++){
+							$("#gridViewTable tr:last-of-type").append("<td class='sort"+headers[i]+"'>"+arguments[i]+"</td");
+						}
+					};
+				}
+				
+				return{
+					getGridView: function(selector){
+						return new getGridView(selector);
+					}
+				}
+			})();
+	</script>
+	</head>
+	<body>
+	
+	<h1>You can sort the table</h1>
+	<div id="gridview"></div>
+	<script>
+	var gridview = gridViewControls.getGridView("#gridview");
+	gridview.getHeader(["Name", "Lastname", "Age", "Town"]);
+	gridview.getRow(["Georgi", "Georgiev", 35, "Sofia"]);
+	gridview.getRow(["Todor", "Todorov", 20, "Varna"]);
+	gridview.getRow(["Petar", "Petrov", 25, "Smolqn"]);
+	gridview.getRow(["Shisho", "Bakshisho", 30, "Burgas"]);
+	</script>
+	</body>
+</html>

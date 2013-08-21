@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\bin\Debug\7.DeclareStringAndObject.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\bin\Debug\7.DeclareStringAndObject.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\bin\Debug\7.DeclareStringAndObject.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\obj\Debug\7.DeclareStringAndObject.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\obj\Debug\7.DeclareStringAndObject.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\7.DeclareStringAndObject\obj\Debug\7.DeclareStringAndObject.pdb

@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.pdb

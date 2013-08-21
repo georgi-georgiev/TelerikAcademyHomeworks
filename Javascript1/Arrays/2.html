@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var firstArray = ['g','e','o','r','g','i'];
+var secondArray = ['g','e','o','r','g','i','e','v'];
+var flag = true;
+if(firstArray.length<=secondArray.length)
+{
+	var length=firstArray.length;
+}
+else
+{
+	var length=secondArray.length;
+}
+for (var index = 0; index < length; index++)
+{
+	if (firstArray[index] < secondArray[index])
+	{
+		console.log("first array is earlier");
+		flag=false;
+		break;
+	}
+	else if (firstArray[index] > secondArray[index])
+	{
+		console.log("second array is earlier");
+		flag=false;
+		break;
+	}
+}
+if(flag==true)
+{
+	if (firstArray.length > secondArray.length)
+	{
+		console.log("second array is earlier");
+	}
+	else if (firstArray.length < secondArray.length)
+	{
+		console.log("first array is earlier");
+	}
+	else
+	{
+		console.log("arrays are same");
+	}
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

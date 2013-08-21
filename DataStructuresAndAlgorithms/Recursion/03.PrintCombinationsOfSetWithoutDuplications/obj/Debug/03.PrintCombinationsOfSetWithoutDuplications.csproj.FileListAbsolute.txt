@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithoutDuplications\bin\Debug\03.PrintCombinationsOfSetWithoutDuplications.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithoutDuplications\bin\Debug\03.PrintCombinationsOfSetWithoutDuplications.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithoutDuplications\bin\Debug\03.PrintCombinationsOfSetWithoutDuplications.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithoutDuplications\obj\Debug\03.PrintCombinationsOfSetWithoutDuplications.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithoutDuplications\obj\Debug\03.PrintCombinationsOfSetWithoutDuplications.pdb

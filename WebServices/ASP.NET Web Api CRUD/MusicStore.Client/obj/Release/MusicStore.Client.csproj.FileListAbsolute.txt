@@ -1,0 +1,12 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.Client.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.DataLayer.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.Models.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.DataLayer.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.Models.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\obj\Release\MusicStore.Client.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.Client.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\bin\Release\MusicStore.Client.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\obj\Release\MusicStore.Client.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Client\obj\Release\MusicStore.Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\bin\Release\MusicStore.Models.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\bin\Release\MusicStore.Models.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\obj\Release\MusicStore.Models.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\obj\Release\MusicStore.Models.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\obj\Release\MusicStore.Models.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\bin\Release\MusicStore.Models.dll.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\bin\Release\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\ASP.NET Web Api CRUD\MusicStore.Models\bin\Release\EntityFramework.xml

@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\03.FindAllCustomersOrderMadeIn1997.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\03.FindAllCustomersOrderMadeIn1997.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\03.FindAllCustomersOrderMadeIn1997.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\obj\Debug\03.FindAllCustomersOrderMadeIn1997.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\obj\Debug\03.FindAllCustomersOrderMadeIn1997.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\03.FindAllCustomersOrderMadeIn1997\obj\Debug\03.FindAllCustomersOrderMadeIn1997.csprojResolveAssemblyReference.cache

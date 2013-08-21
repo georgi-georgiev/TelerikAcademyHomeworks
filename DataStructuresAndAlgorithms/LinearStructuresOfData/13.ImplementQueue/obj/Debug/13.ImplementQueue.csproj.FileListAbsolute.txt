@@ -1,0 +1,1 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\13.ImplementQueue\bin\Debug\13.ImplementQueue.exe.config

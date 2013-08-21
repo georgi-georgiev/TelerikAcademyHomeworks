@@ -1,0 +1,56 @@
+body{
+	background: #fff;
+	margin: 0;
+	padding: 0;
+}
+ul{
+	width: 500px;
+	height: 20px;
+	padding: 5px;
+	margin: 0 auto;
+	list-style-type: none;
+	border-bottom: 1px solid #000;
+	text-align: center;
+}
+ul li{
+	display: inline-block;
+}
+ul li a:link{
+	text-align: center;
+	font-weight: bold;
+}
+.clearfix{
+	zoom: 1;
+}
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+#cont {
+	width: 600px;
+	margin: 0 auto;
+	padding: 10px;
+	
+}
+#info{
+	float: left;
+	width: 400px;
+	padding: 10px;
+	border: 1px solid #000;
+}
+#price{
+	float: right;
+}
+.laptop{
+	width: 180px;
+	padding: 6px;
+	float: left;
+}
+.laptop img{
+	float: left;
+	margin: 5px;
+}

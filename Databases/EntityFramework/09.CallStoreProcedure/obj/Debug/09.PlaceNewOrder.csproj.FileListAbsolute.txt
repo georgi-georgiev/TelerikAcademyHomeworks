@@ -1,0 +1,3 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\bin\Debug\09.CallStoreProcedure.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\obj\Debug\09.CallStoreProcedure.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\09.CallStoreProcedure\obj\Debug\09.CallStoreProcedure.pdb

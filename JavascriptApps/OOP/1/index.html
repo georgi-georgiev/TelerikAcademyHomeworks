@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+if (!Object.prototype.extend) {
+  Object.prototype.extend = function(properties) {
+    function f() {};
+    f.prototype = Object.create(this);
+    for (var prop in properties) {
+      f.prototype[prop] = properties[prop];
+    }
+    f.prototype._super = this;
+    return new f();
+  }
+}
+
+var Person = {
+	init: function(fname, lname, age){
+		this.fname = fname;
+		this.lname = lname;
+		this.age = age;
+	},
+	toString: function(){
+		return "FirstName: "+this.fname+", LastName: "+this.lname+", Age: "+this.age;
+	}
+};
+
+var Student = Person.extend({
+	init: function(fname, lname, age, grade){
+		Person.init.apply(this, arguments);
+		this.grade = grade;
+	},
+	getGrade:  function(){
+		return this.grade;
+	},
+	toString: function(){
+		return Person.toString.apply(this)+", Grade: "+this.getGrade();
+	}
+});
+
+var Teacher = Person.extend({
+	init: function(fname, lname, age, subject){
+		Person.init.apply(this, arguments);
+		this.subject = subject;
+	},
+    getSubject : function(){
+		return this.subject;
+	},
+	toString: function(){
+		return Person.toString.apply(this)+", Subject: "+this.getSubject();
+	}
+});
+
+var Klas = {
+	init: function(name, capacity, students, teacher){
+		this.name = name;
+		this.capacity = capacity;
+		this.students = students;
+		this.teacher = teacher;
+	},
+	toString: function(){
+		console.log("Class name: "+this.name+", Capacity: "+this.capacity);
+		console.log("Students: [");
+		for(var i=0; i<this.students.length; i++){
+			console.log(" "+this.students[i].toString());
+		}
+		console.log("]");
+		console.log("Teacher: "+this.teacher.toString());
+	}
+};
+
+var School = {
+	init: function(name, classes){
+		this.name = name;
+		this.classes = classes;
+	},
+	toString: function(){
+		console.log("School name: "+this.name);
+		for(var i=0; i<this.classes.length; i++){
+			this.classes[i].toString();
+		}
+	}
+};
+
+var personDragan = Object.create(Person);
+personDragan.init("Dragan", "Petkov", "10");
+
+var studentPeter = Object.create(Student);
+studentPeter.init("Peter", "Petrov", "20", "1");
+var studentGeorge = Object.create(Student);
+studentGeorge.init("George", "Ivanov", "25", "3");
+var studentJoro = Object.create(Student);
+studentJoro.init("Joro", "Vratarcheto", "26", "4");
+var teacherIvan = Object.create(Teacher);
+teacherIvan.init("Ivan", "Delev", "40", "Math");
+strawberryClassStudents = [studentPeter, studentGeorge, studentJoro];
+var strawberryClass = Object.create(Klas);
+strawberryClass.init("Strawberry", "20", strawberryClassStudents, teacherIvan);
+
+var studentPesho = Object.create(Student);
+studentPesho.init("Pesho", "Peshov", "22", "2");
+var studentGosho = Object.create(Student);
+studentGosho.init("Gosho", "Kriviq", "30", "5");
+var studentSasho = Object.create(Student);
+studentSasho.init("Sasho", "Leketo", "28", "3");
+var teacherDechko = Object.create(Teacher);
+teacherDechko.init("Dechko", "Jelev", "45", "History");
+lemonClassStudents = [studentPesho, studentGosho, studentSasho];
+var lemonClass = Object.create(Klas);
+lemonClass.init("Lemon", "10", lemonClassStudents, teacherDechko);
+
+pmgClasses = [strawberryClass, lemonClass];
+var pmgSchool = Object.create(School);
+pmgSchool.init("PMG", pmgClasses);
+
+pmgSchool.toString();
+</script>
+</head>
+<body>
+</body>
+</html>

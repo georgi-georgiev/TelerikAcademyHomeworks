@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\DataStructuresEfficiency.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\DataStructuresEfficiency.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\DataStructuresEfficiency.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\obj\Debug\01.PrintStudents.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\obj\Debug\DataStructuresEfficiency.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\obj\Debug\DataStructuresEfficiency.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\PowerCollections.dll
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\DataStructuresEfficiency\bin\Debug\PowerCollections.xml

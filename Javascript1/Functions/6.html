@@ -1,0 +1,32 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+function check()
+{
+	var position = parseInt(document.getElementById('position').value);
+	var array = [1,2,3,4,2,3,6,2];
+	var flag=false;
+	if(array[position+1]<array[position] && array[position-1]<array[position])
+	{
+		flag=true;
+	}
+	document.getElementById('big').innerHTML = flag;
+	
+}
+</script>
+</head>
+<body>
+	<label for="position">Position:</label>
+	<input type="text" id="position" />
+	
+	<div>
+	Is it bigger than neighbours: <span id="big"></span>
+	</div>
+	
+	<button onclick="check()">
+	Check
+	</button>
+	
+</body>
+</html>

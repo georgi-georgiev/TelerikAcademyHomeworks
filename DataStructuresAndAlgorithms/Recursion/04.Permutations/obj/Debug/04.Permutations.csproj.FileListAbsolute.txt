@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\bin\Debug\04.Permutations.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\bin\Debug\04.Permutations.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\bin\Debug\04.Permutations.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\obj\Debug\04.Permutations.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\obj\Debug\04.Permutations.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\04.Permutations\obj\Debug\04.Permutations.csprojResolveAssemblyReference.cache

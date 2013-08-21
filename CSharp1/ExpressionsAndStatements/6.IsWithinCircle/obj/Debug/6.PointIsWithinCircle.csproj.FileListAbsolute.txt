@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\6.IsWithinCircle\bin\Debug\6.IsWithinCircle.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\6.IsWithinCircle\bin\Debug\6.IsWithinCircle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\6.IsWithinCircle\bin\Debug\6.IsWithinCircle.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\6.IsWithinCircle\obj\Debug\6.IsWithinCircle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\6.IsWithinCircle\obj\Debug\6.IsWithinCircle.pdb

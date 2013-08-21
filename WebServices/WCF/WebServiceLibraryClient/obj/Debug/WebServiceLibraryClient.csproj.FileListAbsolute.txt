@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\bin\Debug\WebServiceLibraryClient.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\bin\Debug\WebServiceLibrary.dll
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\bin\Debug\WebServiceLibrary.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\obj\Debug\WebServiceLibraryClient.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\obj\Debug\WebServiceLibraryClient.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\bin\Debug\WebServiceLibraryClient.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\bin\Debug\WebServiceLibraryClient.exe
+c:\users\georgi\documents\visual studio 2012\Projects\WCF\WebServiceLibraryClient\obj\Debug\WebServiceLibraryClient.exe

@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\bin\Debug\02.CompanyArticles.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\obj\Debug\02.CompanyArticles.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\bin\Debug\02.CompanyArticles.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\bin\Debug\02.CompanyArticles.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\bin\Debug\PowerCollections.dll
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\bin\Debug\PowerCollections.xml
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\obj\Debug\02.CompanyArticles.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\02.CompanyArticles\obj\Debug\02.CompanyArticles.pdb

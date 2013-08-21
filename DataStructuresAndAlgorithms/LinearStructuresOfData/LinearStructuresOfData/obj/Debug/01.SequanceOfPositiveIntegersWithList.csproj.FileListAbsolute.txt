@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\LinearStructuresOfData\bin\Debug\LinearStructuresOfData.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\LinearStructuresOfData\obj\Debug\LinearStructuresOfData.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\LinearStructuresOfData\obj\Debug\LinearStructuresOfData.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\LinearStructuresOfData\bin\Debug\LinearStructuresOfData.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\LinearStructuresOfData\bin\Debug\LinearStructuresOfData.pdb

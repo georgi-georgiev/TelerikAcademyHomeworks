@@ -1,0 +1,2 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\05.ReatrieveImages\bin\Debug\05.ReatrieveImages.exe.config
+C:\Users\Georgi\Desktop\Telerik\Databases\ADO.NET\05.ReatrieveImages\bin\Debug\05.ReatrieveImages.exe.config

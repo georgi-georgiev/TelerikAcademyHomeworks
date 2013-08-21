@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var arr = [2,1,2,3,1,1,1,2,3,4,5,6,1,2,3,3,3];
+var maxSeq = arr[0];
+var curSeq = arr[0];
+var maxCounter = 1;
+var counter = 1;
+for(var index=1;index<arr.length-1;index++)
+{
+	if(arr[index+1]==curSeq+1)
+	{
+		counter++;
+	}
+	else
+	{
+		if(maxCounter<counter)
+		{
+			maxSeq=curSeq;
+			maxCounter=counter;
+		}
+		counter=1;
+	}
+	curSeq=arr[index]+1;
+}
+for(var i=maxSeq;i>maxSeq-maxCounter-1;i--)
+{
+	document.write(i);
+}
+</script>
+</head>
+<body>
+  
+</body>
+</html>

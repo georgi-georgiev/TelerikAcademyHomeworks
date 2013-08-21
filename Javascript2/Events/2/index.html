@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+input[type=radio]{
+	float: left;
+}
+label{
+	display: block;
+}
+</style>
+</head>
+<body>
+<input type="text" id="itemName" />
+<button id="add">Add item</button>
+<button id="show">Show all</button>
+<button id="hide">Hide all</button>
+<button id="delete">Delete</button>
+<form id="items">
+</form>
+<script>
+var itemName = document.getElementById('itemName'),
+	addButton = document.getElementById('add'),
+	showButton = document.getElementById('show'),
+	hideButton = document.getElementById('hide'),
+	deleteButton = document.getElementById('delete'),
+	items = document.getElementById('items');
+
+addButton.addEventListener('click', addItem);
+showButton.addEventListener('click', show);
+hideButton.addEventListener('click', hide);
+deleteButton.addEventListener('click', deleteItem);
+
+function addItem(){
+	if(itemName.value.length > 0){
+		var newItem = document.createElement("input");
+		newItem.type = "radio";
+		newItem.name = "item";
+		newItem.setAttribute("onclick","del('"+itemName.value+"');");
+		newItem.id = itemName.value;
+		items.appendChild(newItem);
+		var label = document.createElement("label");
+		label.id = "label-"+itemName.value;
+		label.setAttribute("for",itemName.value);
+		var text=document.createTextNode(itemName.value);
+		label.appendChild(text);
+		items.appendChild(label);
+	}
+}
+function del(id){
+	itemId = id;
+}
+function deleteItem(){
+	var itemToRemove = document.getElementById(itemId);
+	items.removeChild(itemToRemove);
+	var labelToRemove = document.getElementById("label-"+itemId);
+	items.removeChild(labelToRemove);
+	
+}
+function hide(){
+	items.style.display = "none";
+}
+function show(){
+	items.style.display = "block";
+}
+</script>
+</body>
+</html>

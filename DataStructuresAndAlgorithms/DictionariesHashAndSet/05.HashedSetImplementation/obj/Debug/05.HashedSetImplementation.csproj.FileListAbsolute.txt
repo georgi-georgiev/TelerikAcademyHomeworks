@@ -1,0 +1,8 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\bin\Debug\05.HashedSetImplementation.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\bin\Debug\05.HashedSetImplementation.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\bin\Debug\05.HashedSetImplementation.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\bin\Debug\04.ImplementHashTable.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\bin\Debug\04.ImplementHashTable.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\obj\Debug\05.HashedSetImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\obj\Debug\05.HashedSetImplementation.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\05.HashedSetImplementation\obj\Debug\05.HashedSetImplementation.pdb

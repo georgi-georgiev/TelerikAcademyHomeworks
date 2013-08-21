@@ -1,0 +1,40 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+function test()
+{
+	var number = document.getElementById('number').value;
+	var array = [1,2,3,2,2,3,1,2];
+	countOcc(number, array);
+}
+
+function countOcc(number, array)
+{
+	var counter=0;
+	for(var i=0; i<array.length; i++)
+	{
+		if(number == array[i])
+		{
+			counter++;
+		}
+	}
+	document.getElementById('count').innerHTML = counter;
+	
+}
+</script>
+</head>
+<body>
+	
+	<input type="text" id="number" />
+	
+	<div>
+	Number counts in array: <span id="count"></span>
+	</div>
+	
+	<button onclick="test()">
+	Get Count
+	</button>
+	
+</body>
+</html>

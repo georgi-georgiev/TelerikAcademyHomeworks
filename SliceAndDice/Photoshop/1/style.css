@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana;
+}
+input{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	
+}
+.button-left{
+	width: 26px;
+	height: 55px;
+	display: block;
+	background: url('button-left.png');
+	float: left;
+	font-weight: bold;
+	font-size: 16px;
+}
+.button-mid{
+	height: 55px;
+	display: block;
+	background: url('button-mid.png');
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+}
+.button-right{
+	width: 26px;
+	height: 55px;
+	display: block;
+	background: url('button-right.png');
+	float: left;
+}
+a{
+	text-decoration: none;
+	color: #000;
+	line-height: 55px;
+	background: url('button-mid.png');
+}
+

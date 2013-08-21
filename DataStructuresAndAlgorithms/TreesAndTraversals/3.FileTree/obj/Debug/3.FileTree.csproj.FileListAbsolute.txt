@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\3.FileTree\bin\Debug\3.FileTree.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\3.FileTree\bin\Debug\3.FileTree.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\3.FileTree\bin\Debug\3.FileTree.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\3.FileTree\obj\Debug\3.FileTree.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\TreesAndTraversals\3.FileTree\obj\Debug\3.FileTree.pdb

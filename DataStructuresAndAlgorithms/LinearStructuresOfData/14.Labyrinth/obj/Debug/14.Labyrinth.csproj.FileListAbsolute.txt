@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\bin\Debug\14.Labyrinth.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\bin\Debug\14.Labyrinth.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\bin\Debug\14.Labyrinth.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\obj\Debug\14.Labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\obj\Debug\14.Labyrinth.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\14.Labyrinth\obj\Debug\14.Labyrinth.pdb

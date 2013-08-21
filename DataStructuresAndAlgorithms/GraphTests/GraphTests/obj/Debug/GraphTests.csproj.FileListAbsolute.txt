@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\bin\Debug\GraphTests.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\bin\Debug\GraphTests.exe
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\bin\Debug\GraphTests.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\obj\Debug\GraphTests.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\obj\Debug\GraphTests.exe
+c:\users\georgi\documents\visual studio 2012\Projects\GraphTests\GraphTests\obj\Debug\GraphTests.pdb

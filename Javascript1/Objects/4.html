@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+var firstObject = {
+	firstname: "Todor",
+	lastname: "Yanchev",
+	age: 35
+};
+
+var secondObject = new Array(2, 5, "Mara", "Todor", 10);
+
+function hasProperty(object, property){
+	flag=false;
+	for(var prop in object){
+		if(prop == property){
+			flag=true;
+			break;
+		}
+	};
+	return flag;
+};
+
+var hasProp = hasProperty(firstObject, "age");
+//var hasProp = hasProperty(secondObject, length);
+console.log(hasProp);
+</script>
+</head>
+<body>
+  
+</body>
+</html>

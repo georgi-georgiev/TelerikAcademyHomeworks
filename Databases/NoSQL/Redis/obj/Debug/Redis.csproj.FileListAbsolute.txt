@@ -1,0 +1,14 @@
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\Redis.exe.config
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\obj\Debug\Redis.csprojResolveAssemblyReference.cache
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\Redis.exe
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\Redis.pdb
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Common.dll
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Interfaces.dll
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Redis.dll
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Text.dll
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Common.xml
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Interfaces.xml
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Redis.xml
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\bin\Debug\ServiceStack.Text.xml
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\obj\Debug\Redis.exe
+c:\Users\Georgi\documents\visual studio 2012\Projects\NoSQL\Redis\obj\Debug\Redis.pdb

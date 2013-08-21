@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

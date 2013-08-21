@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\10.ReturnsIfBitCountingFromZero\bin\Debug\10.ReturnsIfBitCountingFromZero.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\10.ReturnsIfBitCountingFromZero\bin\Debug\10.ReturnsIfBitCountingFromZero.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\10.ReturnsIfBitCountingFromZero\bin\Debug\10.ReturnsIfBitCountingFromZero.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\10.ReturnsIfBitCountingFromZero\obj\Debug\10.ReturnsIfBitCountingFromZero.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\10.ReturnsIfBitCountingFromZero\obj\Debug\10.ReturnsIfBitCountingFromZero.pdb

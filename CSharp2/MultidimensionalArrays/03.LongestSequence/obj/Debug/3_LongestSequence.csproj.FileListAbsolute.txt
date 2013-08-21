@@ -1,0 +1,1 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\3_LongestSequence\bin\Debug\3_LongestSequence.exe.config

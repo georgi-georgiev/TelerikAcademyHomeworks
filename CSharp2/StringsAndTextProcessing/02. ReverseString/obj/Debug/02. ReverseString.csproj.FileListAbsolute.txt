@@ -1,0 +1,1 @@
+C:\Users\Georgi\Desktop\Telerik\CSharp2\StringsAndTextProcessing\02. ReverseString\bin\Debug\_02.ReverseString.exe.config

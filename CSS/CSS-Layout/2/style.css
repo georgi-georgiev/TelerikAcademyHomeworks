@@ -1,0 +1,45 @@
+body{
+	background: #dedede;
+	margin: 0;
+	padding: 0;
+}
+article{
+	width: 700px;
+	height: 200px;
+	margin: 10px;
+	padding: 10px;
+	background: #fff;
+}
+.clearfix{
+	zoom: 1;
+}
+article.clearfix:after{
+	content: "";
+	clear: both;
+	height: 0;
+}
+article .articleImage{
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+article .articleInfo{
+	width: 450px;
+	float: left;
+	margin-left: 20px;
+}
+.listen{
+width: 100px;
+height: 29px;
+float: right;
+background: url('listen.png');
+margin-left: 20px;
+margin-top: 50px;
+}
+.add{
+width: 100px;
+height: 29px;
+float: right;
+background: url('add.png');
+margin-top: 50px;
+}

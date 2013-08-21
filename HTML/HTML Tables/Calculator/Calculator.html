@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Calculator</title>
+<style>
+html,body {margin: 0; padding: 0;}
+#calculator { width: 250px; border-radius: 5px; background-color: #e2e2e2; height: 250px; padding: 5px; border: 1px solid black; margin: 100px auto; text-align: center;}
+#calculator #textForCalculate { width: 120px; background: #eee;}
+#calculator .calculatorOption { width: 30px; height: 30px; }
+#calculator #calculate { width: 80px; padding: 5px; text-align: center; background-color: blue; color: white; font-weight: bold;}
+</style>
+</head>
+<body>
+	<form id="calculator" action="" method="" name="calculator">
+	<input type="text" value="" name="textForCalculate" id="textForCalculate" disabled="disabled" /><br />
+	<input type="button" value="7" class="calculatorOption" name="seven" />
+	<input type="button" value="8" class="calculatorOption" name="eight" />
+	<input type="button" value="9" class="calculatorOption" name="nine" />
+	<input type="button" value="+" class="calculatorOption" name="plus" /><br />
+	<input type="button" value="4" class="calculatorOption" name="four" />
+	<input type="button" value="5" class="calculatorOption" name="five" />
+	<input type="button" value="6" class="calculatorOption" name="six" />
+	<input type="button" value="-" class="calculatorOption" name="minus" /><br />
+	<input type="button" value="1" class="calculatorOption" name="one" />
+	<input type="button" value="2" class="calculatorOption" name="two" />
+	<input type="button" value="3" class="calculatorOption" name="three" />
+	<input type="button" value="*" class="calculatorOption" name="multiplication" /><br />
+	<input type="button" value="0" class="calculatorOption" name="zero" />
+	<input type="button" value="." class="calculatorOption" name="floating" />
+	<input type="button" value="/" class="calculatorOption" name="partition" />
+	<input type="reset" value="C" class="calculatorOption" name="clear" /><br />
+	<input type="button" value="Calculate" id="calculate" name="calculate" />
+	</form>
+</body>
+</html>

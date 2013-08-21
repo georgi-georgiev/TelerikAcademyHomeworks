@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\bin\Debug\PrincipleOOP.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\bin\Debug\PrincipleOOP.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\bin\Debug\PrincipleOOP.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\obj\Debug\PrincipleOOP.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\PrincipleOOP\obj\Debug\PrincipleOOP.pdb

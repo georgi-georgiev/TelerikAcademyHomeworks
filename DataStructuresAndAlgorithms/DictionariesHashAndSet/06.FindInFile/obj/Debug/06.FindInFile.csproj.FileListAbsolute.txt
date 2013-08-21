@@ -1,0 +1,12 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\bin\Debug\06.FindInFile.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\bin\Debug\06.FindInFile.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\bin\Debug\06.FindInFile.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictionariesHashAndSet\06.FindInFile\bin\Debug\06.FindInFile.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictionariesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictionariesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.pdb
+C:\Users\Georgi\Desktop\Telerik\DataStructuresAndAlgorithms\DictionariesHashAndSet\06.FindInFile\bin\Debug\06.FindInFile.exe.config
+C:\Users\Georgi\Desktop\Telerik\DataStructuresAndAlgorithms\DictionariesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.exe
+C:\Users\Georgi\Desktop\Telerik\DataStructuresAndAlgorithms\DictionariesHashAndSet\06.FindInFile\obj\Debug\06.FindInFile.pdb

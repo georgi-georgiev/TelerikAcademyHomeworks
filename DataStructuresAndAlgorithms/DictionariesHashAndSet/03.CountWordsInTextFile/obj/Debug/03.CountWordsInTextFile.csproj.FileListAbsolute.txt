@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\bin\Debug\03.CountWordsInTextFile.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\03.CountWordsInTextFile\obj\Debug\03.CountWordsInTextFile.csprojResolveAssemblyReference.cache

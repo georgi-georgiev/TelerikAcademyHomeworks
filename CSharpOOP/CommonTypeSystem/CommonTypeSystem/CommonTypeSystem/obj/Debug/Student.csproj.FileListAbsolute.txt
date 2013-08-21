@@ -1,0 +1,3 @@
+c:\users\georgi\documents\visual studio 2012\Projects\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.exe
+c:\users\georgi\documents\visual studio 2012\Projects\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.pdb

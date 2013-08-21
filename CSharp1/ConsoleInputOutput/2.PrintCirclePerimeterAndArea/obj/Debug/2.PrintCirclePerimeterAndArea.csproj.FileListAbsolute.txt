@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\2.PrintCirclePerimeterAndArea\bin\Debug\2.PrintCirclePerimeterAndArea.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\2.PrintCirclePerimeterAndArea\bin\Debug\2.PrintCirclePerimeterAndArea.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\2.PrintCirclePerimeterAndArea\bin\Debug\2.PrintCirclePerimeterAndArea.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\2.PrintCirclePerimeterAndArea\obj\Debug\2.PrintCirclePerimeterAndArea.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\2.PrintCirclePerimeterAndArea\obj\Debug\2.PrintCirclePerimeterAndArea.pdb

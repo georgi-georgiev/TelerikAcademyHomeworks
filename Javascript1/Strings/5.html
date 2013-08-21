@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+	var string = "Sample sitetextmore textand more...in body";
+	var newString = removeSpace(string);
+	console.log(newString);
+	function removeSpace(string)
+	{
+		for(var i=0; i<string.length; i++)
+		{
+			if(string[i] == " ")
+			{
+				string = string.replace(string[i], "&nbsp;");
+			}
+		}
+		return string;
+	}
+	
+
+	</script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+var Class = (function() {
+  function createClass(properties) {
+      var f = function () {
+          //This is an addition to enable super (base) class with inheritance
+        if(this._superConstructor){
+            this._super = new this._superConstructor(arguments);
+            }
+      this.init.apply(this, arguments);
+    }
+    for (var prop in properties) {
+      f.prototype[prop] = properties[prop];
+    }
+    if (!f.prototype.init) {
+      f.prototype.init = function() {}
+    }
+    return f;
+  }
+
+  Function.prototype.inherit = function(parent) {
+    var oldPrototype = this.prototype;
+    this.prototype = new parent();
+    this.prototype._superConstructor = parent;
+    for (var prop in oldPrototype) {
+      this.prototype[prop] = oldPrototype[prop];
+    }
+  }
+
+  return {
+    create: createClass,
+  };
+}());
+
+var Person = Class.create({
+	init: function(fname, lname, age){
+		this.fname = fname;
+		this.lname = lname;
+		this.age = age;
+	},
+	toString: function(){
+		return "FirstName: "+this.fname+", LastName: "+this.lname+", Age: "+this.age;
+	}
+});
+
+var Student = Class.create({
+	init: function(fname, lname, age, grade){
+		this._super.init(fname, lname, age);
+		this.grade = grade;
+	},
+	getGrade:  function(){
+		return this.grade;
+	},
+	toString: function(){
+		return this._super.toString()+", Grade: "+this.getGrade();
+	}
+});
+Student.inherit(Person);
+
+var Teacher = Class.create({
+	init: function(fname, lname, age, subject){
+		this._super.init(fname, lname, age);
+		this.subject = subject;
+	},
+    getSubject : function(){
+		return this.subject;
+	},
+	toString: function(){
+		return this._super.toString()+", Subject: "+this.getSubject();
+	}
+});
+Teacher.inherit(Person);
+
+var Klas = Class.create({
+	init: function(name, capacity, students, teacher){
+		this.name = name;
+		this.capacity = capacity;
+		this.students = students;
+		this.teacher = teacher;
+	},
+	toString: function(){
+		console.log("Class name: "+this.name+", Capacity: "+this.capacity);
+		console.log("Students: [");
+		for(var i=0; i<this.students.length; i++){
+			console.log(" "+this.students[i].toString());
+		}
+		console.log("]");
+		console.log("Teacher: "+this.teacher.toString());
+	}
+});
+
+var School = Class.create({
+	init: function(name, classes){
+		this.name = name;
+		this.classes = classes;
+	},
+	toString: function(){
+		console.log("School name: "+this.name);
+		for(var i=0; i<this.classes.length; i++){
+			this.classes[i].toString();
+		}
+	}
+});
+
+var personDragan = new Person("Dragan", "Petkov", "10");
+
+var studentPeter = new Student("Peter", "Petrov", "20", "1");
+var studentGeorge = new Student("George", "Ivanov", "25", "3");
+var studentJoro = new Student("Joro", "Vratarcheto", "26", "4");
+var teacherIvan = new Teacher("Ivan", "Delev", "40", "Math");
+var strawberryClassStudents = [studentPeter, studentGeorge, studentJoro];
+var strawberryClass = new Klas("Strawberry", "20", strawberryClassStudents, teacherIvan);
+
+var studentPesho = new Student("Pesho", "Peshov", "22", "2");
+var studentGosho = new Student("Gosho", "Kriviq", "30", "5");
+var studentSasho = new Student("Sasho", "Leketo", "28", "3");
+var teacherDechko = new Teacher("Dechko", "Jelev", "45", "History");
+var lemonClassStudents = [studentPesho, studentGosho, studentSasho];
+var lemonClass = new Klas("Lemon", "10", lemonClassStudents, teacherDechko);
+
+var pmgClasses = [strawberryClass, lemonClass];
+var pmgSchool = new School("PMG", pmgClasses);
+
+pmgSchool.toString();
+</script>
+</head>
+<body>
+</body>
+</html>

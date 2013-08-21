@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb

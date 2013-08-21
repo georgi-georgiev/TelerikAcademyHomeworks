@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<script>
+	function setColor(){
+	var color = document.getElementById("color").value;
+	document.getElementById("textarea").style.color = color;
+	}
+	function setBackgroundColor(){
+	var bgColor = document.getElementById("bgColor").value;
+	document.getElementById("textarea").style.background = bgColor;
+	}
+	</script>
+</body>
+</head>
+<body>
+	<label for="color">Text color</label><br />
+	<input type="color" id="color" onchange="setColor()" /><br />
+	<label for="bgColor">Background color</label><br />
+	<input type="color" id="bgColor" onchange="setBackgroundColor()" /><br />
+	<textarea id="textarea" rows="10" cols="20">Some text in textarea</textarea>
+</html>

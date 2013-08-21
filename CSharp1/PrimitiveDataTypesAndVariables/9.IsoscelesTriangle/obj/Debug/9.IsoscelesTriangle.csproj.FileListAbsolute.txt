@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\bin\Debug\9.IsoscelesTriangle.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\bin\Debug\9.IsoscelesTriangle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\bin\Debug\9.IsoscelesTriangle.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\obj\Debug\9.IsoscelesTriangle.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\obj\Debug\9.IsoscelesTriangle.exe
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\9.IsoscelesTriangle\obj\Debug\9.IsoscelesTriangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\bin\Debug\AlgorithmsTestExample.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\bin\Debug\AlgorithmsTestExample.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\bin\Debug\AlgorithmsTestExample.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\obj\Debug\01.MessagesInBottle.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\obj\Debug\AlgorithmsTestExample.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AlgorithmsTestExample\obj\Debug\AlgorithmsTestExample.pdb

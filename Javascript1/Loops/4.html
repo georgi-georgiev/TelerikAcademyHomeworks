@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<script>
+//Document
+var minLength ="some started text";
+var maxLength ="some started text";
+for(var property in document)
+{
+
+
+		if(minLength.localeCompare(property) > 0)//lexicographic
+		{
+			minLength = property;
+		}
+
+		if(maxLength.localeCompare(property) < 0)//lexicographic
+		{
+			maxLength = property;
+		}
+}
+console.log(minLength);
+console.log(maxLength);
+
+//Nav
+var minLengthNav = "some started text";
+var maxLengthNav = "some started text";
+for(var property in navigator)
+{
+
+	if(minLengthNav.localeCompare(property) > 0)//lexicographic
+	{
+		minLengthNav = property;
+	}
+	
+	if(maxLengthNav.localeCompare(property) < 0)//lexicographic
+	{
+		maxLengthNav = property;
+	}
+}
+console.log(minLengthNav);
+console.log(maxLengthNav);
+
+//Window
+var minLengthWindow = "some started text";
+var maxLengthWindow = "some started text";
+for(var property in window)
+{
+
+	if(minLengthWindow.localeCompare(property) > 0)//lexicographic
+	{
+		minLengthWindow = property;
+	}
+
+	if(maxLengthWindow.localeCompare(property) < 0)//lexicographic
+	{
+		maxLengthWindow = property;
+	}
+}
+console.log(minLengthWindow);
+console.log(maxLengthWindow);
+</script>
+</head>
+<body>
+  
+</body>
+</html>

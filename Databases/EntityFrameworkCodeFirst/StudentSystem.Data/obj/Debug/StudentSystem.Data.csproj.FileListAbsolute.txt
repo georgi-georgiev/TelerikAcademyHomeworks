@@ -1,0 +1,30 @@
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+c:\users\georgi\documents\visual studio 2012\Projects\Solution1\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+C:\Users\Georgi\Desktop\Telerik\Databases\EntityFrameworkCodeFirst\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

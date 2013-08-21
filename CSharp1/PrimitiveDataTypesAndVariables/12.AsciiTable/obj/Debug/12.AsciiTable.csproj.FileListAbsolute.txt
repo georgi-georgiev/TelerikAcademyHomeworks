@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\12.AsciiTable\bin\Debug\12.AsciiTable.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\12.AsciiTable\bin\Debug\12.AsciiTable.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\12.AsciiTable\bin\Debug\12.AsciiTable.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\12.AsciiTable\obj\Debug\12.AsciiTable.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\12.AsciiTable\obj\Debug\12.AsciiTable.pdb

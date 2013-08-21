@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\9.PrintSequenceOfFibonacci\bin\Debug\9.PrintSequenceOfFibonacci.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\9.PrintSequenceOfFibonacci\bin\Debug\9.PrintSequenceOfFibonacci.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\9.PrintSequenceOfFibonacci\bin\Debug\9.PrintSequenceOfFibonacci.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\9.PrintSequenceOfFibonacci\obj\Debug\9.PrintSequenceOfFibonacci.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ConsoleInputOutput\9.PrintSequenceOfFibonacci\obj\Debug\9.PrintSequenceOfFibonacci.pdb

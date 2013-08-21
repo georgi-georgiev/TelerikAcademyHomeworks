@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\05.GenerateAndPrintElementSubsets\bin\Debug\05.GenerateAndPrintElementSubsets.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\05.GenerateAndPrintElementSubsets\bin\Debug\05.GenerateAndPrintElementSubsets.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\05.GenerateAndPrintElementSubsets\bin\Debug\05.GenerateAndPrintElementSubsets.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\05.GenerateAndPrintElementSubsets\obj\Debug\05.GenerateAndPrintElementSubsets.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\05.GenerateAndPrintElementSubsets\obj\Debug\05.GenerateAndPrintElementSubsets.pdb

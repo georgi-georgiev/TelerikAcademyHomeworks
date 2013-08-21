@@ -1,0 +1,34 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+function divCounts()
+{
+	var divs = document.getElementsByTagName("div").length;
+	return divs;
+}
+</script>
+</head>
+<body>
+	<div>
+	Div1
+	</div>
+	
+	<div>
+	Div2
+	</div>
+	
+	<div>
+	Div3
+	</div>
+	
+	<span id="count">
+	
+	</span>
+	
+	<button onclick="getElementById('count').innerHTML=divCounts()">
+	Get Divs Count
+	</button>
+	
+</body>
+</html>

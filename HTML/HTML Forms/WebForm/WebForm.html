@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>WebForm</title>
+<style>
+table{border-collapse: collapse; border-color: #333;}
+table tr td {width: 220px;}
+table tr td:first-child {text-align: right;}
+table tr td input {width: 210px;}
+#city {width: 80px;}
+#state {width: 60px;}
+#zip {width: 60px;}
+#countryCode {width: 40px;}
+#areaCode {width: 30px;}
+#number {width: 80px;}
+#month {width: 20px;}
+#day {width: 15px;}
+#year {width: 50px;}
+#spring,#summer {width: 15px;}
+#submit,#clear {width: 60px;}
+</style>
+</head>
+<body>
+	<form action="" method="" name="webForm">
+		<table cellpadding="5" cellspacing="1" border="1">
+			<tbody>
+				<tr>
+					<td><label for="lastName">Last Name:</label></td>
+					<td><input type="text" value="Georgiev" name="lastName" id="lastName" /></td>
+				</tr>
+				<tr>
+					<td><label for="firstName">First Name:</label></td>
+					<td><input type="text" value="Georgi" name="firstName" id="firstName" /></td>
+				</tr>
+				<tr>
+					<td><label for="adress">Adress:</label></td>
+					<td><textarea name="adress" id="adress">8 Odrin Str. floor. 2 apt. 4</textarea></td>
+				</tr>
+				<tr>
+					<td>
+						<label for="city">City:</label>
+					</td>
+					<td>
+					<input type="text" value="Shumen" name="state" id="city" />
+					<label for="state">State:</label>
+					<input type="text" value="" name="state" id="state" />
+					</td>
+				</tr>
+				<tr>
+					<td><label for="zip">Zip/Postal code:</label></td>
+					<td>
+						<input type="text" value="9700" name="zip" id="zip" />
+					</td>
+				</tr>
+				<tr>
+					<td><label for="Country">Country:</label></td>
+					<td>
+						<select name="country" id="country">
+							<option value="Germany">Germany</option>
+							<option value="Bulgaria" selected="selected">Bulgaria</option>
+							<option value="England">England</option>
+							<option value="Turkey">Turkey</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="countryCode">Phone(country code, area code, number):</label></td>
+					<td>
+						(+<input type="text" value="359" name="countryCode" id="countryCode" />)
+						<input type="text" value="89" name="areaCode" id="areaCode" />
+						<input type="text" value="9999999" name="number" id="number" />
+					</td>
+				</tr>
+				<tr>
+					<td><label for="email">Email:</label></td>
+					<td><input type="text" value="georgi.georgiev.it@gmail.com" name="email" id="email" /></td>
+				</tr>
+				<tr>
+					<td><label for="month">Birth date:</label></td>
+					<td>
+						<label for="month">Month</label>
+						<input type="text" value="12" name="month" id="month" />
+						<label for="day">Day</label>
+						<input type="text" value="06" name="day" id="day" />
+						<label for="year">Year</label>
+						<input type="text" value="1993" name="year" id="year" />
+					</td>
+				</tr>
+				<tr>
+					<td><label>Gender:</label></td>
+					<td>
+						<select name="gender" id="gender">
+							<option value="female">Female</option>
+							<option value="male" selected="selected">Male</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td><label>Starting date:</label></td>
+					<td>
+						<input type="radio" name="startingDate" id="spring" checked/>
+						<label for="spring">Spring 2006</label>
+						<input type="radio" name="startingDate" id="summer" />
+						<label for="summer">Summer 2006</label>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="comments">Comments/Questions:</label></td>
+					<td>
+						<textarea name="comments" id="comments" rows="7">
+						Please send me more information about the lodging
+						</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" style="text-align:center; background-color: #333;">
+					<input type="submit" value="submit" name="submit" id="submit" />
+					<input type="reset" value="clear" id="clear" />
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</form>
+</body>
+</html>

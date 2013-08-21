@@ -1,0 +1,8 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\bin\Debug\BiDictionaryImplementation.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\bin\Debug\BiDictionaryImplementation.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\bin\Debug\BiDictionaryImplementation.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\bin\Debug\PowerCollections.dll
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\bin\Debug\PowerCollections.xml
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\obj\Debug\BiDictionaryImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\obj\Debug\BiDictionaryImplementation.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\DataStructuresEfficiency\BiDictionaryImplementation\obj\Debug\BiDictionaryImplementation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\bin\Debug\04.LongestSubsequanceWithList.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\bin\Debug\04.LongestSubsequanceWithList.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\obj\Debug\LongestSubsequanceWithList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

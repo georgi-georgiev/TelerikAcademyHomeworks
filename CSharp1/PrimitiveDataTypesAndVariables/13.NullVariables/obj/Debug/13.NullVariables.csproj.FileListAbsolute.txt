@@ -1,0 +1,2 @@
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\13.NullVariables\bin\Debug\13.NullVariables.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\HomeworkPrimitiveDataTypesAndVariables\13.NullVariables\obj\Debug\13.NullVariables.csprojResolveAssemblyReference.cache

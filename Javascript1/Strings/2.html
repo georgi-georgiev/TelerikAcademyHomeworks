@@ -1,0 +1,52 @@
+<!Doctype html>
+<html>
+<head>
+	<script>
+	var expression = "(a+(b/(5-d)))";
+	bracketCorrection(expression);
+	function bracketCorrection(expression)
+	{
+		var startBracket = "(";
+		var endBracket = ")";
+		var countStartBracket=0;
+		var countEndBracket=0;
+		for(var i=0; i<expression.length; i++)
+		{
+			if(startBracket === expression[i])
+			{
+				countStartBracket++;
+			}
+			if(endBracket === expression[i])
+			{
+				countEndBracket++;
+			}
+		}
+		if(countStartBracket === countEndBracket)
+		{
+			if(expression.indexOf(startBracket) < expression.indexOf(endBracket))
+			{
+				if(expression.lastIndexOf(startBracket) < expression.lastIndexOf(endBracket))
+				{
+					console.log("correct");
+				}
+				else
+				{
+					console.log("incorrect");
+				}
+			}
+			else
+			{
+				console.log("incorrect");
+			}
+		}
+		else
+		{
+			console.log("incorrect");
+		}
+	}
+	</script>
+</head>
+<body>
+
+</body>
+</html>

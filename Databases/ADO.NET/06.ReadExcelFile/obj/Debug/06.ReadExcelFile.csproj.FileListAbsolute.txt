@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\06.ReadExcelFile\bin\Debug\06.ReadExcelFile.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\06.ReadExcelFile\bin\Debug\06.ReadExcelFile.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\06.ReadExcelFile\bin\Debug\06.ReadExcelFile.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\06.ReadExcelFile\obj\Debug\06.ReadExcelFile.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ADO.NET\06.ReadExcelFile\obj\Debug\06.ReadExcelFile.pdb

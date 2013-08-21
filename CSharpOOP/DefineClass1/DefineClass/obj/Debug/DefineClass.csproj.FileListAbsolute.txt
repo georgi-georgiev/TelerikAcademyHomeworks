@@ -1,0 +1,4 @@
+c:\users\georgi\documents\visual studio 2012\Projects\TelerikOOP\DefineClass\bin\Debug\DefineClass.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\TelerikOOP\DefineClass\obj\Debug\DefineClass.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Telerik\CsharpOOP\DefineClass\DefineClass\bin\Debug\DefineClass.exe.config
+C:\Users\Georgi\Desktop\Telerik\CsharpOOP\DefineClass\DefineClass\obj\Debug\DefineClass.csprojResolveAssemblyReference.cache

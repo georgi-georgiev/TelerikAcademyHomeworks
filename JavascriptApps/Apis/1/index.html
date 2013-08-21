@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <!-- Add styles for width and height -->
+    <style>
+      html, body, #map-canvas {
+        margin: 0;
+        padding: 0;
+        height: 500px;
+        width: 1000px;
+      }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true&language=en"></script>
+</head>
+<body>
+    <button id="get-previous">Previous</button>
+    <button id="get-next">Next</button>
+    <div id="map-canvas"></div>
+    <script src="google-maps.js"></script>
+</body>
+</html>

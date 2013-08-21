@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\bin\Debug\03.PrintCombinationsOfSetWithDuplications.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\obj\Debug\03.PrintCombinationsOfSetWithDuplications.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\obj\Debug\03.PrintCombinationsOfSetWithDuplications.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\bin\Debug\03.PrintCombinationsOfSetWithDuplications.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\bin\Debug\03.PrintCombinationsOfSetWithDuplications.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\Recursion\03.PrintCombinationsOfSetWithDuplications\obj\Debug\02.PrintCombinationsOfSetWithDuplications.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Georgi\Desktop\Telerik\CSharp1\IntroductionToProgramming\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Georgi\Desktop\Telerik\CSharp1\IntroductionToProgramming\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Georgi\Desktop\Telerik\CSharp1\IntroductionToProgramming\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb

@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+	#tree li > ul, li > ul > ul {
+		display: none;
+	}
+</style>
+<script src="jquery-1.7.1.min.js"></script>
+</head>
+<body>
+<ul id="tree">
+	<li>Item</li>
+	<li class="nest">Item
+		<ul>
+			<li>Sub Item</li>
+			<li>Sub Item</li>
+			<li>Sub Item</li>
+			<li class="nest">Sub Item
+				<ul>
+					<li>Sub Item</li>
+					<li>Sub Item</li>
+					<li>Sub Item</li>
+					<li>Sub Item</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>Item</li>
+	<li>Item</li>
+</ul>
+<script>
+var controls = (function () {
+	var liTags = document.getElementsByTagName('li');
+
+	var i = 0;
+
+	for (i = 0; i < liTags.length; i++) {
+		liTags[i].addEventListener('click', revealSubList);
+	}
+
+	function revealSubList(event) {
+		if (typeof this.getElementsByTagName('ul')[0] == 'undefined') return 0;
+
+		if (this === event.target &&
+		this.getElementsByTagName('ul')[0].style.display == 'block') {
+			this.getElementsByTagName('ul')[0].style.display = 'none';
+		}
+		else {
+			this.getElementsByTagName('ul')[0].style.display = 'block';
+		}
+	}
+
+	function treeView(element) {
+		var el;
+		if (element.indexOf(".") > 0) {
+			el = element.substring(0, element.indexOf("."));
+			el = document.createElement(el);
+			elSelector = element.substring(element.indexOf("."), element.length);
+			el.className = elSelector.substring(1, elSelector.length);
+		} else if (element.indexOf("#") > 0) {
+			el = element.substring(0, element.indexOf("#"));
+			el = document.createElement(el);
+			elSelector = element.substring(element.indexOf("#"), element.length);
+			el.id = elSelector.substring(1, elSelector.length);
+		} else {
+			el = document.createElement(element);
+		}
+
+		document.body.appendChild(el);
+
+		return this;
+	}
+
+	function addNode() {
+		if (this.get) {
+
+		}
+		var ul = document.createElement("ul");
+		el.appendChild(ul);
+		var li = document.createElement("li");
+		var ul = document.querySelector(elSelector + ' > ul');
+		ul.appendChild(li);
+
+		return this;
+	}
+
+	function content() {
+		console.log(this.addNode);
+		this.addNode.innerHTML = "s";
+	}
+
+
+	return {
+		treeView: treeView,
+		addNode: addNode,
+		content: content
+	};
+})();
+
+var treeView = controls.treeView("div.tree-view");
+var jsnode = treeView.addNode();
+var jsnode = treeView.addNode();
+var node = jsnode.addNode();
+jsnode.content("JavaScript");
+
+//var js1subnode = jsnode.addNode();
+//js1subnode.content("JavaScript - part 1");
+
+//var js2subnode = jsnode.addNode();
+//hs2subnode.content("JavaScript - part 2");
+
+//var jslibssubnode = jsnode.addNode();
+//jslibssubnode.content("JS Libraries");
+
+//var jsframeworksnode = jsnode.addNode();
+//jsframeworksnode.content("JS Frameworks and UI");
+
+//var webnode = treeView.addNode();
+//Webnode.content("Web");
+</script>
+</body>
+</html>

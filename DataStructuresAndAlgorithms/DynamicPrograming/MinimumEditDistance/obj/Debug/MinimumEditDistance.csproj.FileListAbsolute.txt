@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DynamicPrograming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\DynamicPrograming\MinimumEditDistance\bin\Debug\MinimumEditDistance.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DynamicPrograming\MinimumEditDistance\bin\Debug\MinimumEditDistance.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\DynamicPrograming\MinimumEditDistance\obj\Debug\MinimumEditDistance.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DynamicPrograming\MinimumEditDistance\obj\Debug\MinimumEditDistance.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.exe.config
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.exe
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\bin\Debug\SortingHomework.pdb
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.exe
+C:\Users\Georgi\Downloads\Sorting-and-Searching-Algorithms-Homework\obj\Debug\SortingHomework.pdb

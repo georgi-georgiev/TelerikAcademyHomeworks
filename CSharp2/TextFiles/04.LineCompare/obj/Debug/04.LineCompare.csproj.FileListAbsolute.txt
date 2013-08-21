@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task4_LineCompare\bin\Debug\task4_LineCompare.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task4_LineCompare\bin\Debug\task4_LineCompare.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task4_LineCompare\bin\Debug\task4_LineCompare.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task4_LineCompare\obj\Debug\task4_LineCompare.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task4_LineCompare\obj\Debug\task4_LineCompare.pdb

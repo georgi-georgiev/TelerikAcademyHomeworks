@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\bin\Debug\RangeException.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\bin\Debug\RangeException.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\bin\Debug\RangeException.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\obj\Debug\RangeException.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\obj\Debug\RangeException.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP2\RangeException\obj\Debug\RangeException.pdb

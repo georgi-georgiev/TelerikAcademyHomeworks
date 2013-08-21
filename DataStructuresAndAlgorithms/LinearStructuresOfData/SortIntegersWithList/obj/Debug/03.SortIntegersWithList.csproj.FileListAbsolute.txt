@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\bin\Debug\SortIntegersWithList.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\bin\Debug\SortIntegersWithList.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\bin\Debug\SortIntegersWithList.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\obj\Debug\SortIntegersWithList.exe
+c:\users\georgi\documents\visual studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\obj\Debug\SortIntegersWithList.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\SortIntegersWithList\obj\Debug\03.SortIntegersWithList.csprojResolveAssemblyReference.cache

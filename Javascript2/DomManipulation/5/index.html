@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+#tags{
+	background: #f2f2f2;
+	width: 200px;
+	border: 1px solid #e5e5e5;
+	padding: 10px;
+	color: #555;
+	height: 300px;
+}
+span:hover{
+	text-decoration: underline;
+}
+</style>
+<script>
+function setTags(){
+	var tags = ["cms", "javascript", "Javascript", "JavaScript", "js", "ASP.NET MVC", ".net", ".net", "css", "wordpress", "xaml", "js", "http", "web", "asp.net", "asp.net MVC", "ASP.NET MVC", "wp", "javascript", "js", "cms", "html", "javascript", "http", "http", "CMS"];
+	var tagCloud = generateTagCloud(tags,17,42);
+	function generateTagCloud(tags, minFont, maxFont)
+	{
+		var added = [];
+		for(var i=0; i<tags.length; i++)
+		{
+			var string = document.createElement('span');
+			string.textContent = tags[i];
+			string.style.display = 'inline';
+			string.style.marginRight = '5px';
+			string.style.float = 'left';
+			var isAdded = false;
+
+				if(added.length !== "undefined")
+				{
+					for (var k = 0; k < added.length; k++) {
+						if (tags[i].toLowerCase() === added[k]) {
+							isAdded = true;
+							break;
+						}
+					}
+				}
+
+                if (!isAdded) {
+                    var fontSize = parseInt(minFont) - 1;
+
+                    for (j = 0; j < tags.length; j++) {
+                        if (tags[i] === tags[j]) {
+                            fontSize+=2;
+                        }
+                    }
+
+                    if (fontSize > maxFont) {
+                        fontSize = maxFont;
+                    }
+					
+                    string.style.fontSize = fontSize + 'px';
+                    added.push(tags[i].toLowerCase());
+                    document.getElementById('tags').appendChild(string);
+                }
+		}
+		
+	}
+}
+</script>
+<body onload="setTags()">
+	<div id="tags">
+	</div>
+</body>
+</html>

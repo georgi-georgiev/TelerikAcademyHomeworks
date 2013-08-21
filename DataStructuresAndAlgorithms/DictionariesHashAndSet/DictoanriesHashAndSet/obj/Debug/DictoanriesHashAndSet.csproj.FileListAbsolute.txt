@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\bin\Debug\DictoanriesHashAndSet.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\bin\Debug\DictoanriesHashAndSet.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\bin\Debug\DictoanriesHashAndSet.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\obj\Debug\DictoanriesHashAndSet.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\obj\Debug\DictoanriesHashAndSet.exe
+c:\users\georgi\documents\visual studio 2012\Projects\DictoanriesHashAndSet\DictoanriesHashAndSet\obj\Debug\DictoanriesHashAndSet.pdb

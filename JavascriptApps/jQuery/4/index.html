@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="../jquery.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("body").css("background-color", "rgb(000,000,000)");
+			$("#getColorForBG").on('change', function() {
+				var color = $("#getColorForBG").val();
+				$("body").css("background-color", color);
+			});
+			
+		});
+		</script>
+	</head>
+	<body>
+		<input id="getColorForBG" type="color" />
+	</body>
+</html>

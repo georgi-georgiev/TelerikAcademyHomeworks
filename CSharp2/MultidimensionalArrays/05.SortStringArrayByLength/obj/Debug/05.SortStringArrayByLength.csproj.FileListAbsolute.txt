@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\5_SortStringArrayByLength\bin\Debug\5_SortStringArrayByLength.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\5_SortStringArrayByLength\bin\Debug\5_SortStringArrayByLength.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\5_SortStringArrayByLength\bin\Debug\5_SortStringArrayByLength.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\5_SortStringArrayByLength\obj\Debug\5_SortStringArrayByLength.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\5_SortStringArrayByLength\obj\Debug\5_SortStringArrayByLength.pdb

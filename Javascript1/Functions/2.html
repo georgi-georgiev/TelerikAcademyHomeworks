@@ -1,0 +1,18 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+function reverseDigit(number){
+	var reverse = "";
+	while(number>0){
+		reverse = reverse+number%10;
+		number = Math.floor(number/10);
+	}
+	console.log(reverse);
+}
+reverseDigit(1347);
+</script>
+</head>
+<body>
+</body>
+</html>

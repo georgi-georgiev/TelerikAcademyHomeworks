@@ -1,0 +1,2 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master\TelerikAcademy-master\C# part 2\CS2_TextFiles_HW7\task10_TagRemover\bin\Debug\task10_TagRemover.exe.config
+C:\Users\Georgi\Desktop\TelerikAcademy\C# part 2\TextFiles\10.RemoveTag\bin\Debug\task10_TagRemover.exe.config

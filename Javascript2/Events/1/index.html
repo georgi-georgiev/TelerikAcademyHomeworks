@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.clearfix:after {
+    display: none;
+    content: " ";
+    clear: both;
+}
+.slider {
+    position: relative;
+    overflow: hidden;
+	width: 500px;
+}
+.slider-panels {
+    position: relative;
+    left: 0;
+    width: 10000%;
+	margin-left: 60px;
+}
+.slider-panel {
+    float: left;
+    width: 1%;
+}
+.slider-arrow-left,
+.slider-arrow-right {
+    display: block;
+	width: 15px;
+	height: 22px;
+}
+.slider-arrow-left{
+	float: left;
+	background: url('leftarrow.png');
+}
+.slider-arrow-right{
+	float: right;
+	background: url('rightarrow.png');
+}
+
+.slider-demo {
+    margin: 0 auto;
+    padding: 10px 0;
+    width: 400px;
+    text-align: center;
+}
+</style>
+<body>
+<div class="slider">
+	<span class="slider-arrow-right"></span>
+	<span class="slider-arrow-left"></span>
+    <div class="slider-panels clearfix">
+        <div class="slider-panel">
+            <img src="1.jpg" width="400" height="300" alt="1" />
+        </div>
+        <div class="slider-panel">
+            <img src="2.jpg" width="400" height="300" alt="2" />
+        </div>
+        <div class="slider-panel">
+            <img src="3.jpg" width="400" height="300" alt="3" />
+        </div>
+        <div class="slider-panel">
+            <img src="4.jpg" width="400" height="300" alt="4" />
+        </div>
+    </div>
+    
+</div>
+<script>
+[].slice.call(document.querySelectorAll('.slider')).forEach(function(slider) {
+    var panels = slider.querySelector('.slider-panels'),
+        allPanels = panels.querySelectorAll('.slider-panel').length,
+        currentPanel = 0;
+    function slideBy(speed) {
+        currentPanel = (currentPanel + speed + allPanels) % allPanels;
+        panels.style.left = -(currentPanel * 100) + '%';
+    }
+    slider.querySelector('.slider-arrow-left').addEventListener('click', function() {
+        slideBy(-1);
+    });
+    slider.querySelector('.slider-arrow-right').addEventListener('click', function() {
+        slideBy(1);
+    });
+});
+</script>
+</body>
+</html>

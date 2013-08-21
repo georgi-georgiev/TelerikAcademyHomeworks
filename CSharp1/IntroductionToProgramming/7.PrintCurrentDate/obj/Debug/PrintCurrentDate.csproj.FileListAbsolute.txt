@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\PrintCurrentDate\bin\Debug\PrintCurrentDate.exe
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\PrintCurrentDate\bin\Debug\PrintCurrentDate.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\PrintCurrentDate\obj\Debug\PrintCurrentDate.exe
+c:\users\georgi\documents\visual studio 2012\Projects\IntroductionToProgramming\PrintCurrentDate\obj\Debug\PrintCurrentDate.pdb

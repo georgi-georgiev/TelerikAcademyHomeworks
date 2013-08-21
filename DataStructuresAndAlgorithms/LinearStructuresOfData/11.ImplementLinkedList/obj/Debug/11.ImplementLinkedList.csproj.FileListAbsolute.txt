@@ -1,0 +1,1 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\11.ImplementLinkedList\bin\Debug\11.ImplementLinkedList.exe.config

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+<body>
+<script>
+	var specialConsole = (function () {
+		function writeLine(massage, parameter) {
+			if (arguments.length == 1) {
+				console.log(massage);
+			} else {
+				massage = massage.substring(0, massage.indexOf("{"));
+				console.log(massage + parameter);
+			}
+		}
+
+		function writeWarning(massage, parameter) {
+			writeLine.call(this, massage, parameter);
+		}
+
+		function writeError(massage, parameter) {
+			writeLine.call(this, massage, parameter);
+		}
+		return {
+			writeLine: writeLine,
+			writeWarning: writeWarning,
+			writeError: writeError
+		};
+	})();
+
+	specialConsole.writeLine("Message: hello");
+	specialConsole.writeLine("Message: {0}", "hello");
+	specialConsole.writeError("Error: {0}", "Something happened");
+	specialConsole.writeWarning("Warning: {0}", "A warning");
+
+</script>
+</body>
+</html>

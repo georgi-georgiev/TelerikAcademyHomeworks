@@ -1,0 +1,10 @@
+C:\Users\Georgi\Desktop\team-project\team-damsin\trunk\SurvivorsFury\bin\SurvivorsFury.dll
+C:\Users\Georgi\Desktop\team-project\team-damsin\trunk\SurvivorsFury\bin\SurvivorsFury.pdb
+C:\Users\Georgi\Desktop\team-project\team-damsin\trunk\SurvivorsFury\obj\Debug\SurvivorsFury.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\team-project\team-damsin\trunk\SurvivorsFury\obj\Debug\SurvivorsFury.dll
+C:\Users\Georgi\Desktop\team-project\team-damsin\trunk\SurvivorsFury\obj\Debug\SurvivorsFury.pdb
+C:\Users\Georgi\Desktop\SurvivorsFury\bin\SurvivorsFury.dll
+C:\Users\Georgi\Desktop\SurvivorsFury\bin\SurvivorsFury.pdb
+C:\Users\Georgi\Desktop\SurvivorsFury\obj\Debug\SurvivorsFury.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\SurvivorsFury\obj\Debug\SurvivorsFury.dll
+C:\Users\Georgi\Desktop\SurvivorsFury\obj\Debug\SurvivorsFury.pdb

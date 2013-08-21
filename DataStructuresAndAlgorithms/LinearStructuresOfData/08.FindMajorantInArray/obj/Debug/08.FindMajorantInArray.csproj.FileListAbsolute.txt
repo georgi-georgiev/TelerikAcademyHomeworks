@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\08.FindMajorantInArray\bin\Debug\08.FindMajorantInArray.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\08.FindMajorantInArray\bin\Debug\08.FindMajorantInArray.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\08.FindMajorantInArray\bin\Debug\08.FindMajorantInArray.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\08.FindMajorantInArray\obj\Debug\08.FindMajorantInArray.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\LinearStructuresOfData\08.FindMajorantInArray\obj\Debug\08.FindMajorantInArray.pdb

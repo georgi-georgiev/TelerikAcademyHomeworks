@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\OtherAlgorithms\bin\Debug\OtherAlgorithms.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\OtherAlgorithms\bin\Debug\OtherAlgorithms.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\OtherAlgorithms\bin\Debug\OtherAlgorithms.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\OtherAlgorithms\obj\Debug\OtherAlgorithms.exe
+c:\users\georgi\documents\visual studio 2012\Projects\OtherAlgorithms\OtherAlgorithms\obj\Debug\OtherAlgorithms.pdb

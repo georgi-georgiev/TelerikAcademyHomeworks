@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\12. Refactoring-Homework (1)\bin\Debug\GameFifteen.exe
+C:\Users\Georgi\Downloads\12. Refactoring-Homework (1)\bin\Debug\GameFifteen.pdb
+C:\Users\Georgi\Downloads\12. Refactoring-Homework (1)\obj\x86\Debug\RotatingMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\12. Refactoring-Homework (1)\obj\x86\Debug\GameFifteen.exe
+C:\Users\Georgi\Downloads\12. Refactoring-Homework (1)\obj\x86\Debug\GameFifteen.pdb

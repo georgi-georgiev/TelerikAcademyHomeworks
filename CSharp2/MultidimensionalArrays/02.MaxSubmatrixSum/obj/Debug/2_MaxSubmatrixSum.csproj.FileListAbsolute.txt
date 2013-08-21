@@ -1,0 +1,1 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\2_MaxSubmatrixSum\bin\Debug\2_MaxSubmatrixSum.exe.config

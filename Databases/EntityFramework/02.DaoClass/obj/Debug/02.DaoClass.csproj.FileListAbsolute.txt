@@ -1,0 +1,9 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\02.DaoClass.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\02.DaoClass.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\02.DaoClass.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\obj\Debug\02.DaoClass.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\02.DaoClass\obj\Debug\02.DaoClass.pdb

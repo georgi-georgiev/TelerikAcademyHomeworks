@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\01.UsingVSFDesigner.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\01.UsingVSFDesigner.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.pdb

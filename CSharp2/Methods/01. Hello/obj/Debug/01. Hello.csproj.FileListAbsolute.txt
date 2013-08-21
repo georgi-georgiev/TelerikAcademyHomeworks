@@ -1,0 +1,8 @@
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\01. Hello\bin\Debug\_01.Hello.exe.config
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\01. Hello\bin\Debug\_01.Hello.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\01. Hello\bin\Debug\_01.Hello.pdb
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\01. Hello\obj\Debug\_01.Hello.exe
+C:\Users\Georgi\Downloads\MyTelerikProjectsAndHomeworks-master\MyTelerikProjectsAndHomeworks-master\CSharpHomeworks\09. Methods\01. Hello\obj\Debug\_01.Hello.pdb
+C:\Users\Georgi\Desktop\Telerik\CSharp2\Methods\01. Hello\bin\Debug\_01.Hello.exe.config
+C:\Users\Georgi\Desktop\Telerik\CSharp2\Methods\01. Hello\obj\Debug\_01.Hello.exe
+C:\Users\Georgi\Desktop\Telerik\CSharp2\Methods\01. Hello\obj\Debug\_01.Hello.pdb

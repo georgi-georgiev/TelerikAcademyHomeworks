@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+ul{
+list-style: none;
+}
+</style>
+<script src="jquery.js"></script>
+<script>
+(function ($) {
+	$.fn.CreateTreeView = function () {
+		var element = $(this.selector);
+
+		element.find("li ul").hide();
+
+		element.click(function (ev) {
+			if (ev.target instanceof HTMLLIElement) {
+				$(ev.target.parentElement).find("ul").hide();
+				$(ev.target).find(" > ul").show();
+			}
+		});
+	}
+}(jQuery));
+</script>
+</head>
+<body>
+	<ul id="tree">
+		<li>List 1</li>
+		<li>List 2</li>
+		<li>List 3
+			<ul>
+				<li>Sublist 1</li>
+				<li>Sublist 2
+					<ul>
+						<li>Sub sublist 1</li>
+						<li>Sub sublist 2</li>
+						<li>Sub sublist 3</li>
+						<li>Sub sublist 4</li>
+					</ul>
+				</li>
+				<li>Sublist 3</li>
+				<li>Sublist 4</li>
+			</ul>
+		</li>
+		<li>List 4</li>
+		<li>List 5</li>
+	</ul>
+	<script>
+	$("#tree").CreateTreeView();
+	</script>
+</body>
+</html>

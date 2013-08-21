@@ -1,0 +1,1 @@
+C:\Users\Georgi\Desktop\Telerik\CSharp2\UsingClassesAndObjects\05. NumberOfWorkDays\bin\Debug\_05.NumberOfWorkDays.exe.config

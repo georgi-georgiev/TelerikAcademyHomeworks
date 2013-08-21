@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\1.EvenOrOdd\bin\Debug\1.EvenOrOdd.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\1.EvenOrOdd\bin\Debug\1.EvenOrOdd.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\1.EvenOrOdd\bin\Debug\1.EvenOrOdd.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\1.EvenOrOdd\obj\Debug\1.EvenOrOdd.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\1.EvenOrOdd\obj\Debug\1.EvenOrOdd.pdb

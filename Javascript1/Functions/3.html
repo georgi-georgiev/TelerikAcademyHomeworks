@@ -1,0 +1,28 @@
+<!Doctype HTML>
+<html>
+<head>
+<script>
+var count=0;
+var word = "GoshO e goSho";
+word = word.toLowerCase();
+var text = "Gosho";
+text = text.toLowerCase();
+for (var i = 0; i < word.length-text.length+1; i++) {
+	var flag=true;
+	for (var j = 0; j < text.length; j++) {
+		if(word[j+i]!=text[j])
+		{
+			flag=false;
+		}
+	};
+	if(flag)
+	{
+		++count;
+	}
+};
+console.log(count);
+</script>
+</head>
+<body>
+</body>
+</html>

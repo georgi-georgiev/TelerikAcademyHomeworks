@@ -1,0 +1,24 @@
+body{
+	margin:0;
+	padding:0;
+}
+ul{
+	width: 100px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+ul li>ul li {
+display: none;
+}
+ul li a:link{
+text-decoration: none;
+display: block;
+}
+ul li:hover a{
+text-decoration: underline;
+}
+ul li:hover>ul li{
+display: block;
+margin-left: 15px;
+}

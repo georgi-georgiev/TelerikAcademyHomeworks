@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\bin\Debug\Humans.exe.config
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\obj\Debug\Humans.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\bin\Debug\Humans.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\bin\Debug\Humans.pdb
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\obj\Debug\Humans.exe
+C:\Users\Georgi\documents\visual studio 2012\Projects\PrincipleOOP\Humans\obj\Debug\Humans.pdb

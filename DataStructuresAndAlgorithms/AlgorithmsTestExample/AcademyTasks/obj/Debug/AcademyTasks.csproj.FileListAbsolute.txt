@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\bin\Debug\AcademyTasks.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\bin\Debug\AcademyTasks.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\bin\Debug\AcademyTasks.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\obj\Debug\AcademyTasks.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\obj\Debug\AcademyTasks.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\AlgorithmsTestExample\AcademyTasks\obj\Debug\AcademyTasks.pdb

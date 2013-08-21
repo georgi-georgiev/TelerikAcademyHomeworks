@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\4_OddBinarySearch\bin\Debug\4_OddBinarySearch.exe.config
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\4_OddBinarySearch\bin\Debug\4_OddBinarySearch.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\4_OddBinarySearch\bin\Debug\4_OddBinarySearch.pdb
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\4_OddBinarySearch\obj\Debug\4_OddBinarySearch.exe
+C:\Users\Georgi\Downloads\TelerikAcademy-master (1)\TelerikAcademy-master\CSharp2\CSharp2_2_MultidimensionalArrays\4_OddBinarySearch\obj\Debug\4_OddBinarySearch.pdb

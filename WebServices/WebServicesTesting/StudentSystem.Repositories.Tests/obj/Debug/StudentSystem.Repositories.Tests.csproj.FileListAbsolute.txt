@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\WebServicesTesting\StudentSystem.Repositories.Tests\bin\Debug\StudentSystem.Repositories.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\WebServicesTesting\StudentSystem.Repositories.Tests\bin\Debug\StudentSystem.Repositories.Tests.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\WebServicesTesting\StudentSystem.Repositories.Tests\obj\Debug\StudentSystem.Repositories.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\WebServicesTesting\StudentSystem.Repositories.Tests\obj\Debug\StudentSystem.Repositories.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\WebServicesTesting\StudentSystem.Repositories.Tests\obj\Debug\StudentSystem.Repositories.Tests.pdb

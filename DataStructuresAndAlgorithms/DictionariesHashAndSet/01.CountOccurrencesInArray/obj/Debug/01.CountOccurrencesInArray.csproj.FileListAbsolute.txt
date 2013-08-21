@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\bin\Debug\01.CountOccurrencesInArray.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\bin\Debug\01.CountOccurrencesInArray.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\bin\Debug\01.CountOccurrencesInArray.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\obj\Debug\01.CountOccurrencesInArray.exe
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\obj\Debug\01.CountOccurrencesInArray.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\DictoanriesHashAndSet\01.CountOccurrencesInArray\obj\Debug\01.CountOccurrencesInArray.csprojResolveAssemblyReference.cache

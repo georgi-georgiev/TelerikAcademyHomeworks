@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\4.CheckThirdDigitSeven\bin\Debug\4.CheckThirdDigitSeven.exe.config
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\4.CheckThirdDigitSeven\bin\Debug\4.CheckThirdDigitSeven.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\4.CheckThirdDigitSeven\bin\Debug\4.CheckThirdDigitSeven.pdb
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\4.CheckThirdDigitSeven\obj\Debug\4.CheckThirdDigitSeven.exe
+c:\users\georgi\documents\visual studio 2012\Projects\ExpressionsAndStatements\4.CheckThirdDigitSeven\obj\Debug\4.CheckThirdDigitSeven.pdb
