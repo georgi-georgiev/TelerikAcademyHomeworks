@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\bin\ASP.NET Validation Controls.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\bin\ASP.NET Validation Controls.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\bin\ASP.NET Validation Controls.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\obj\Debug\ASP.NET Validation Controls.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\obj\Debug\ASP.NET Validation Controls.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Validation Controls\ASP.NET Validation Controls\obj\Debug\ASP.NET Validation Controls.pdb

@@ -1,0 +1,14 @@
+﻿@model IEnumerable<ASP.NET_MVC_KENDO.Models.Book>
+
+@{
+    ViewBag.Title = "SearchBooks";
+}
+
+<h2>Result for: @ViewBag.Results</h2>
+<div>
+    @foreach (var book in Model)
+    {
+        <p><a href="~/Books/ViewBook/@book.Id">@book.Title by @book.Author</a></p>
+
+    }
+</div>

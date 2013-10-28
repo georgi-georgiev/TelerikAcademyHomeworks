@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\bin\ASP.NET Web Forms Sitemap.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\bin\ASP.NET Web Forms Sitemap.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\bin\ASP.NET Web Forms Sitemap.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\obj\Debug\ASP.NET Web Forms Sitemap.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\obj\Debug\ASP.NET Web Forms Sitemap.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Sitemap\ASP.NET Web Forms Sitemap\obj\Debug\ASP.NET Web Forms Sitemap.pdb

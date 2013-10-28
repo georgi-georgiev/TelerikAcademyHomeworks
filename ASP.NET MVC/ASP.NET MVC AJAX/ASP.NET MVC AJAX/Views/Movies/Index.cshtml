@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ASP.NET_MVC_AJAX.Models.Movie>
+@{
+    ViewBag.Title = "Index";
+}
+
+@Ajax.ActionLink("Crate Movie Form", "Create", new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "create-movie-form"
+})
+<div id="create-movie-form">
+</div>
+<div class="row">
+<h2>All Movies</h2>
+@foreach (var movie in Model)
+{
+    <div class="span4">
+        <div><a href="~/Movies/ViewMovie/@movie.Id"><b>Title: @movie.Title</b></a></div>
+        <div>Director: @movie.Director</div>
+        <div>LeadingFRole: @movie.LeadingFRole</div>
+        <div>LeadingFRoleAge: @movie.LeadingFRoleAge</div>
+        <div>LeadingMRole: @movie.LeadingMRole</div>
+        <div>LeadingMRoleAge: @movie.LeadingMRoleAge</div>
+        <div>Studio: @movie.Studio</div>
+        <div>StudioAddress: @movie.StudioAddress</div>
+    </div>
+}
+    
+</div>

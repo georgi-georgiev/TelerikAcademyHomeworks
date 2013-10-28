@@ -1,0 +1,25 @@
+﻿@model ASP.NET_MVC_AJAX.Models.Movie
+
+@{
+    ViewBag.Title = "ViewMovie";
+}
+
+<h2>ViewMovie</h2>
+
+<div><b>Title: @Model.Title</b></div>
+<div>Director: @Model.Director</div>
+<div>LeadingFRole: @Model.LeadingFRole</div>
+<div>LeadingFRoleAge: @Model.LeadingFRoleAge</div>
+<div>LeadingMRole: @Model.LeadingMRole</div>
+<div>LeadingMRoleAge: @Model.LeadingMRoleAge</div>
+<div>Studio: @Model.Studio</div>
+<div>StudioAddress: @Model.StudioAddress</div>
+
+<a href="~/Movies/DeleteMovie/@Model.Id"> Delete</a>
+@Ajax.ActionLink("Edit", "EditMovie", new { id = Model.Id }, new AjaxOptions
+{
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "edit-movie-form",
+    
+})
+<div id="edit-movie-form"></div>

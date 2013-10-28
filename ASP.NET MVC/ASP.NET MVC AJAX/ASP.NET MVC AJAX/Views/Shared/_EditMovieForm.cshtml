@@ -1,0 +1,26 @@
+﻿@model ASP.NET_MVC_AJAX.Models.Movie
+
+@{
+    ViewBag.Title = "_EditMovieForm";
+}
+
+<form action="~/Movies/UpdateMovie" method="post">
+    <input type="hidden" name="Id" value="@Model.Id" /><br />
+    Title:
+    <input type="Text" name="Title" value="@Model.Title" /><br />
+    Director:
+    <input type="Text" name="Director" value="@Model.Director" /><br />
+    LeadingFRole:
+    <input type="Text" name="LeadingFRole" value="@Model.LeadingFRole" /><br />
+    LeadingFRoleAge:
+    <input type="Text" name="LeadingFRoleAge" value="@Model.LeadingFRoleAge" /><br />
+    LeadingMRole:
+    <input type="Text" name="LeadingMRole" value="@Model.LeadingMRole" /><br />
+    LeadingMRoleAge:
+    <input type="Text" name="LeadingMRoleAge" value="@Model.LeadingMRoleAge" /><br />
+    Studio:
+    <input type="Text" name="Studio" value="@Model.Studio" /><br />
+    StudioAddress:
+    <input type="Text" name="StudioAddress" value="@Model.StudioAddress" /><br />
+    <input type="submit" value="Update" />
+</form>

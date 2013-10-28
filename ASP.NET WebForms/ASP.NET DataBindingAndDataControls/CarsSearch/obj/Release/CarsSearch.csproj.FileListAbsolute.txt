@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\bin\CarsSearch.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\bin\CarsSearch.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\bin\CarsSearch.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\obj\Release\CarsSearch.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\obj\Release\CarsSearch.pdb
+C:\Users\Georgi\documents\visual studio 2013\Projects\ASP.NET DataBindingAndDataControls\CarsSearch\obj\Release\CarsSearch.csprojResolveAssemblyReference.cache

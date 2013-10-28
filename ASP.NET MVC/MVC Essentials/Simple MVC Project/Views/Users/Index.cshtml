@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Simple_MVC_Project.Models.ApplicationUser>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@foreach (var user in Model)
+{
+    <div>@user.UserName</div>
+}
+@Html.Partial("_UserProfile")
+
+@section Aside{
+    <p>Advertise by Bing</p>
+}

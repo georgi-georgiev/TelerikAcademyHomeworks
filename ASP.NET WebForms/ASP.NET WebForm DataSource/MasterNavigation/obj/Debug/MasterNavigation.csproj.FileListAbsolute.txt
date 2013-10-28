@@ -1,0 +1,9 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\MasterNavigation.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\MasterNavigation.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\MasterNavigation.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\EntityFramework.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\EntityFramework.xml
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\obj\Debug\MasterNavigation.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\obj\Debug\MasterNavigation.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\MasterNavigation\bin\EntityFramework.SqlServer.xml

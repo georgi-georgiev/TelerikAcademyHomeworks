@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Simple_MVC_Project.Models.Category>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@foreach (var category in Model)
+{
+    <div>
+        @category.Name -
+        @foreach (var product in category.Products)
+        {
+            <span>@product.Name</span>
+        }
+    </div>
+}
+@section Aside{
+    <p>Advertise by Yahoo</p>
+}

@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\bin\ASP.NET Web Forms User Controls.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\bin\ASP.NET Web Forms User Controls.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\bin\ASP.NET Web Forms User Controls.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\obj\Debug\ASP.NET Web Forms User Controls.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\obj\Debug\ASP.NET Web Forms User Controls.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET Web Forms User Controls\ASP.NET Web Forms User Controls\obj\Debug\ASP.NET Web Forms User Controls.csprojResolveAssemblyReference.cache

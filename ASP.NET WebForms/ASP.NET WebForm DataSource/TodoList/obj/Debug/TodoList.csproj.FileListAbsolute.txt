@@ -1,0 +1,10 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\TodoList.dll.config
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\TodoList.dll
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\TodoList.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\EntityFramework.dll
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\EntityFramework.xml
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\obj\Debug\TodoList.dll
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\obj\Debug\TodoList.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\ASP.NET WebForm DataSource\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache

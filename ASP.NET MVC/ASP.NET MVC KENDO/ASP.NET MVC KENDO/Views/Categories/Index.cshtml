@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ASP.NET_MVC_KENDO.ViewModels.CategoryViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@(Html.Kendo()
+    .Grid(Model)
+    .Name("grid")
+    .Columns(columns =>
+        {
+            columns.Bound(book => book.Name).Sortable(true);
+            columns.Command(cmd => { cmd.Edit(); cmd.Destroy(); });
+        })
+        .ToolBar(toolbar => toolbar.Create())
+        .Pageable()
+        .Sortable()
+        .Selectable(selectable => selectable.Mode(GridSelectionMode.Multiple))
+        .Editable(edit => edit.Mode(GridEditMode.PopUp))
+        .DataSource(dataSource => dataSource
+            .Ajax()
+            .Model(model => model.Id(b => b.Id))
+            .PageSize(5)
+            .ServerOperation(true)
+            .Create("CrateCategory", "Categories")
+            .Read("ReadCategories", "Categories")
+            .Update("UpdateCategories", "Categories")
+            .Destroy("DeleteCategories", "Categories")
+            )
+        )

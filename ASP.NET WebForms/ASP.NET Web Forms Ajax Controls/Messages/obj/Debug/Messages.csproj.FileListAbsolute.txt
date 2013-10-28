@@ -1,0 +1,10 @@
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\Messages.dll.config
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\Messages.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\Messages.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\EntityFramework.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\EntityFramework.SqlServer.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\EntityFramework.xml
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\bin\EntityFramework.SqlServer.xml
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\obj\Debug\Messages.dll
+c:\users\georgi\documents\visual studio 2013\Projects\ASP.NET Web Forms Ajax Controls\Messages\obj\Debug\Messages.pdb

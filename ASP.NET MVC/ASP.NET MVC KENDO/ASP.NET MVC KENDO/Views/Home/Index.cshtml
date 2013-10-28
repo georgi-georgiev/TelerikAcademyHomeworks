@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ASP.NET_MVC_KENDO.Models.Category>
+@{
+    ViewBag.Title = "Home Page";  
+}
+<div class="row">
+    <form action="~/Home/SearchBooks" method="get">
+        @(Html.Kendo().AutoComplete()
+        .Name("search")
+        .DataTextField("Title")
+        .HtmlAttributes(new { name = "query" })
+        .DataSource(
+        d =>
+        {
+            d.Read(r =>
+            {
+                r.Action("GetBooksTitles", "Books")
+                    .Data("onAdditionalData");
+
+            }).ServerFiltering(true);
+        }))
+        <input class="btn" type="submit" value="Search" />
+    </form>
+    
+</div>
+<script>
+    function onAdditionalData() {
+        return {
+            text: $("#search").val()
+        };
+    }
+</script>
+<div class="row">
+    @foreach (var category in Model)
+    {
+       <div class="span4">
+        <h2>@category.Name</h2>
+           @foreach (var book in category.Books)
+	        {
+		         <p><a href="~/Books/ViewBook/@book.Id">@book.Title by @book.Author</a></p>
+	        }
+    </div> 
+    }
+    
+</div>

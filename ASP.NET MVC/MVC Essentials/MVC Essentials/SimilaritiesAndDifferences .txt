@@ -1,0 +1,7 @@
+Same startup events in Global.asax.
+Use C# as main development language.
+Both can be developed through the same IDE and use the same NuGet packages for development.
+Webforms relies heavily on controls, postback(event driven) and has less control over HTML.
+MVC provides more control over the HTML output and it looks a lot cleaner.
+They use different View Engines.
+MVC imposes better separation of concerns.

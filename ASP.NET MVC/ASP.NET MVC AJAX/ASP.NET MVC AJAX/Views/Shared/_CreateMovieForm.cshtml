@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "_CreateMovieForm";
+}
+
+<h2>Create Movie</h2>
+
+<form method="post" action="~/Movies/CreateMovie">
+    Title:
+    <input type="Text" name="Title" /><br />
+    Director:
+    <input type="Text" name="Director" /><br />
+    LeadingFRole:
+    <input type="Text" name="LeadingFRole" /><br />
+    LeadingFRoleAge:
+    <input type="Text" name="LeadingFRoleAge" /><br />
+    LeadingMRole:
+    <input type="Text" name="LeadingMRole" /><br />
+    LeadingMRoleAge:
+    <input type="Text" name="LeadingMRoleAge" /><br />
+    Studio:
+    <input type="Text" name="Studio" /><br />
+    StudioAddress:
+    <input type="Text" name="StudioAddress" /><br />
+    <input type="submit" value="Create" />
+</form>
